@@ -271,6 +271,8 @@ The killer wasn't in those databases. But some of his relatives were.
 
 From there, the genealogists did what genealogists do. They took the distant cousins who matched, and built their family trees. Back through parents, grandparents, great-grandparents. Then forward again, through every branch, looking for the one person who fit. A man. The right age to have been an adult in nineteen eighty-one. Someone whose life could have put him near Denver.
 
+It's painstaking work. Each match on a genealogy site comes with a number: how many centimorgans, a unit of shared DNA, two people have in common. A parent and child share about half their DNA. A first cousin, around an eighth. A third cousin might share less than one percent. Every number is consistent with several possible relationships, and a genealogist has to test each possibility against birth records, marriage certificates, obituaries, census pages and old newspaper clippings until only one family tree fits all the evidence.
+
 On January twenty-ninth, twenty twenty-one, the result that mattered would come in. [SRC: 2] But first, the tree gave them a name.
 
 [PAUSE]
@@ -506,6 +508,8 @@ So, the question we started with. Who cut the phone lines in Denver's richest su
 A jury has answered the first half. David Dwayne Anderson was convicted of her murder.
 
 The second half has a more surprising answer. You find him through his relatives, people who never knew him and never knew Sylvia, who uploaded their DNA to learn about their own family history. And then you wait for him to throw away a can of soda.
+
+And there's one more thing worth noticing. Twice, this case was "solved" by a confession or a theory: Ottis Toole in nineteen eighty-three, and, in the defence's telling, a former boyfriend who should have been the suspect. Both times, the answer that people found convincing was wrong, or at least unproven. The answer that held up in court came from the one witness that doesn't get tired, doesn't want attention, and can't be led: the DNA.
 
 What's striking about this case is how ordinary the final piece was. Forty years of investigation came down to the most forgettable thing a person can do: finish a drink and toss the can.
 
