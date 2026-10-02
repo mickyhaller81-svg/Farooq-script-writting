@@ -526,7 +526,7 @@ Birgit Meier was found in September twenty seventeen. Twenty-eight years late, a
 Thank you for staying with Birgit's story to the end. If it mattered to you, a subscribe helps stories like hers get told carefully.
 [/CLOSING CTA]
 
-Next time: a woman found in her home in a quiet suburb of Washington, D.C., and a neighbour who told police a name in the first days. Nobody checked it for twenty-three years.
+Next time: a woman found in her home in a quiet suburb of Washington, D.C., and a neighbour who gave police a name within the year. It sat in the file for more than two decades.
 
 ---
 
