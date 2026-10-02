@@ -12,8 +12,8 @@ Rules: `TRUE_CRIME_SCRIPT_RULES.md` · Topics: `TOPICS_2026-10-02.json`
 | 06 | Iwao Hakamada | Letters spine | ~6,400 | Script ready |
 | 07 | Sylvia Quayle / David Dwayne Anderson | Object spine | ~6,600 | Script ready. New: Ottis Toole's false confession (1983) and the 2026 Court of Appeals trash-DNA ruling |
 | 08 | Denise Johnson / Mark Bogan (plant DNA) | Courtroom frame | ~6,400 | Script ready. Thin victim record, so no invented detail |
-| 09 | Glynn Simmons | Split screen (Edmond / Harvey) | ~6,450 | Script ready. Don Roberts still convicted, so neutral language |
-| 10 | See topics file | — | — | In progress |
+| 09 | Glynn Simmons | Split screen (Edmond / Harvey) | ~6,350 | Script ready. Don Roberts still convicted, so neutral language |
+| 10 | Jeanie Childs / Jerry Westrom | Linear, mother's voice | ~6,400 | Script ready. Saturation now HIGH (48 Hours, 2026) |
 
 ## Notes from research (corrections to the topic file)
 - **01:** The "31 days later" title can't be sourced. The real twist is the husband (Jerry Nemke): a 1960 murder conviction, and named by investigators as a person of interest in Freeman's death.
@@ -21,6 +21,12 @@ Rules: `TRUE_CRIME_SCRIPT_RULES.md` · Topics: `TOPICS_2026-10-02.json`
 - **03:** The tip was logged **January 2002**, not 2001. The husband was Carl "Sandy" Preer (died 2017). Saturation is now MOD-HIGH (20/20 Sept 2025, Dateline Oct 2025).
 
 - **05:** The topic file's "exonerated" is corrected: the conviction was quashed and a nolle prosequi entered; in 2018 police said he remains a person of interest. The sentence was life with a 25-year non-parole period (not "26 years"). Compensation was $2.57m.
+
+- **06:** Prosecutors again sought the death penalty at the May 2024 retrial hearing. In 1968 the court excluded 44 of 45 confession documents.
+- **07:** New finds: Ottis Toole's false confession (1983, dropped 1993 after DNA) and People v. Anderson (Colo. App., Aug 2026) upholding the trash-can DNA.
+- **08:** Victim detail is very thin in public sources, so nothing was invented. The 29 reference trees and 47 RAPD markers come from the forensic literature.
+- **09:** The lineup report was found by a private investigator in June 1996. Don Roberts is still convicted; neutral language used.
+- **10:** Never narrate the wound count. The defence's alternative suspect is unnamed (never charged). A second male DNA profile remains unidentified.
 
 ## Before voicing (owner)
 - Measure the voice WPM (§3) and trim or extend to 50–55 minutes.
