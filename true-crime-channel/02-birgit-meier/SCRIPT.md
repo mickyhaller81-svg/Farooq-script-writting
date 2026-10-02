@@ -196,6 +196,10 @@ It's worth being specific about what pushing would have looked like, because non
 
 The gardener was questioned, and the gardener went home.
 
+And remember what else was happening that summer. Fifty kilometres away, a large team of detectives was hunting whoever had killed four people in the Göhrde forest. They were looking for a man who could overpower two adults at once, who knew the back roads of the region, and who was comfortable with weapons. They were looking for him in the forest, in the villages, at the railway stations where the stolen cars had been left.
+
+Nobody on that team, as far as the record shows, was told that a man with a conviction for a violent sexual crime, and a thin alibi in a missing-woman case, was living less than an hour away. The two investigations ran side by side, in the same summer, and never touched.
+
 Back in Hamburg, Wolfgang Sielaff was not happy. He tried, again and again, to point the investigators in Lüneburg at the open questions and discrepancies he could see in the file. According to later accounts, his suggestions were taken up half-heartedly, if at all. [SRC: 4]
 
 [COMMENT TRIGGER #1]
