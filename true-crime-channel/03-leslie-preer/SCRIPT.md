@@ -524,7 +524,7 @@ Somewhere in Montgomery County, there's a library where Leslie Preer used to sit
 Thank you for staying with Leslie's story to the end. If it mattered to you, a subscribe helps more cases like this get told carefully.
 [/CLOSING CTA]
 
-Next time: France. A nurse vanishes in the middle of a winter night. No body, no weapon, no confession. And a husband who is convicted anyway.
+Next time: Australia. A young lawyer found in the bath five weeks before her wedding, a forensic pathologist who saw what nobody else could see, and a man who spent twenty years in prison because of it.
 
 ---
 
