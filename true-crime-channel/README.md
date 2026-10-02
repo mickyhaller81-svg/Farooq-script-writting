@@ -12,7 +12,8 @@ Rules: `TRUE_CRIME_SCRIPT_RULES.md` · Topics: `TOPICS_2026-10-02.json`
 | 06 | Iwao Hakamada | Letters spine | ~6,400 | Script ready |
 | 07 | Sylvia Quayle / David Dwayne Anderson | Object spine | ~6,600 | Script ready. New: Ottis Toole's false confession (1983) and the 2026 Court of Appeals trash-DNA ruling |
 | 08 | Denise Johnson / Mark Bogan (plant DNA) | Courtroom frame | ~6,400 | Script ready. Thin victim record, so no invented detail |
-| 09–10 | See topics file | — | — | In progress |
+| 09 | Glynn Simmons | Split screen (Edmond / Harvey) | ~6,450 | Script ready. Don Roberts still convicted, so neutral language |
+| 10 | See topics file | — | — | In progress |
 
 ## Notes from research (corrections to the topic file)
 - **01:** The "31 days later" title can't be sourced. The real twist is the husband (Jerry Nemke): a 1960 murder conviction, and named by investigators as a person of interest in Freeman's death.
