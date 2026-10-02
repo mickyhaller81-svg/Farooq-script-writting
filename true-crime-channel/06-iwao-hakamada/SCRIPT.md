@@ -463,6 +463,10 @@ She was born in nineteen thirty-three. She was in her thirties when her brother 
 
 After the acquittal, she was asked how she felt. Her answer wasn't triumph. It was this: "This is the beginning." [SRC: 5] She meant that her brother's case should change things for others still waiting.
 
+There are still men on Japan's death row today who say they are innocent, and who have spent decades asking for retrials. Some have lawyers and supporters fighting for them. Most do not have a Hideko. Her point was simple: the system that took fifty-eight years to free her brother is still the system they're waiting on. If it only works when an extraordinary sister, a dissenting judge, a boxing federation and a chemistry experiment all line up at once, then for most people, it doesn't work at all.
+
+That's why, at ninety-one, standing outside the court that had finally cleared her brother, she didn't talk about the end of something. She talked about a beginning.
+
 [NORMAL]
 
 So, the question we started with. How does an innocent man spend forty-six years waiting to be hanged? And what does it take for a country to admit it was wrong?
