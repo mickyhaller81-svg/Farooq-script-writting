@@ -9,7 +9,8 @@ Rules: `TRUE_CRIME_SCRIPT_RULES.md` · Topics: `TOPICS_2026-10-02.json`
 | 03 | Leslie Preer / Eugene Gligor | Evidence spine (interrogation) | ~6,560 | Script ready |
 | 04 | Delphine Jubillar | — | — | Deferred by owner (French sources; the 2026 developments are [verify]) |
 | 05 | Anna-Jane Cheney / Henry Keogh / Dr Manock | Reverse chronology | ~6,600 | Script ready. HIGH legal sensitivity: Keogh is not exonerated (nolle prosequi; police say person of interest) |
-| 06–10 | See topics file | — | — | Not started |
+| 06 | Iwao Hakamada | Letters spine | ~6,400 | Script ready |
+| 07–10 | See topics file | — | — | In progress |
 
 ## Notes from research (corrections to the topic file)
 - **01:** The "31 days later" title can't be sourced. The real twist is the husband (Jerry Nemke): a 1960 murder conviction, and named by investigators as a person of interest in Freeman's death.
