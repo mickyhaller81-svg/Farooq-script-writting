@@ -7,7 +7,7 @@ Rules: `TRUE_CRIME_SCRIPT_RULES.md` · Topics: `TOPICS_2026-10-02.json`
 | 01 | Lee Rotatori / Thomas Freeman | Dual timeline | ~6,830 | Script ready |
 | 02 | Birgit Meier / Wolfgang Sielaff | In medias res | ~6,615 | Script ready |
 | 03 | Leslie Preer / Eugene Gligor | Evidence spine (interrogation) | ~6,560 | Script ready |
-| 04 | Delphine Jubillar | Puzzle (six pieces) | ~6,450 | Script ready. **LIVE CASE**: appeal Apr 30 – May 14, 2027; reconstruction Oct 2, 2026. Re-check before publishing. Recommend airing last, or after updating. |
+| 04 | Delphine Jubillar | Puzzle (six pieces) | ~6,250 | Script ready. **LIVE CASE**: appeal Apr 30 – May 14, 2027; reconstruction Oct 2, 2026. Re-check before publishing. Recommend airing last, or after updating. |
 | 05 | Anna-Jane Cheney / Henry Keogh / Dr Manock | Reverse chronology | ~6,600 | Script ready. HIGH legal sensitivity: Keogh is not exonerated (nolle prosequi; police say person of interest) |
 | 06 | Iwao Hakamada | Letters spine | ~6,400 | Script ready |
 | 07 | Sylvia Quayle / David Dwayne Anderson | Object spine | ~6,600 | Script ready. New: Ottis Toole's false confession (1983) and the 2026 Court of Appeals trash-DNA ruling |
@@ -31,7 +31,7 @@ Rules: `TRUE_CRIME_SCRIPT_RULES.md` · Topics: `TOPICS_2026-10-02.json`
 - **04:** The 2026 confession (July 6) and the identification of the remains (July 16, Mailhoc) are confirmed by multiple outlets. Children and the new partner are unnamed. Presumption of innocence applies while the appeal is pending.
 
 ## Recommended release order
-01 → 02 → 03 → 05 → 06 → 07 → 08 → 09 → 10 → 04. Each script's closing tease matches this order (03 teases 05; 10 closes the series). 04 goes last because it is live and needs a final fact-check against the latest French reporting.
+01 → 02 → 03 → 05 → 06 → 07 → 08 → 09 → 10 → 04. Each script's closing tease matches this order (03 teases 05; 10 teases 04; 04 closes the series). 04 goes last because it is live and needs a final fact-check against the latest French reporting.
 
 ## Before voicing (owner)
 - Measure the voice WPM (§3) and trim or extend to 50–55 minutes.

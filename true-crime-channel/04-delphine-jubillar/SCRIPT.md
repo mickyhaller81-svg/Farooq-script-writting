@@ -458,7 +458,9 @@ Thank you for staying with Delphine's story to the end. If it mattered to you, a
 
 This case is still moving. The reconstruction, the appeal, and whatever comes out in court in Toulouse in twenty twenty-seven may add to, or change, what's known. We'll follow it, and if anything in this video needs correcting, we'll correct it.
 
-Next time: a new case.
+That's the end of this series of ten cases. Ten people, in four countries, across more than half a century. Some of them waited decades for an answer. Some are still waiting. Every one of them deserved to be looked for.
+
+The next series starts soon.
 
 ---
 

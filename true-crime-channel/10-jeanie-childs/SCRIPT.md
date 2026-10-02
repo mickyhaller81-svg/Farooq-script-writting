@@ -519,9 +519,7 @@ Somewhere in Minnesota, Betty Eakman kept a promise her daughter never got to he
 Thank you for staying with Jeanie's story to the end. If it mattered to you, a subscribe helps more cases like hers get told carefully.
 [/CLOSING CTA]
 
-That's the end of this series of ten cases. Ten people, in four countries, across more than half a century. Some of them waited decades for an answer. Some are still waiting. Every one of them deserved to be looked for.
-
-The next series starts soon.
+Next time, the last case in this series, and one that is still unfolding: France. A nurse vanishes on the first night of a curfew. No body, no weapon, no confession, and a husband who is convicted anyway. And then, after the verdict, a letter.
 
 ---
 
