@@ -395,6 +395,8 @@ Watch the order of events there. First, "I don't know." Then, "I don't remember.
 
 For twenty-four minutes, he gives no ground. [SRC: 10] "I don't know," "I don't remember," over and over. He never explains how his DNA could have been under Leslie's fingernails. He never offers an innocent reason he might have been at the house that day.
 
+There's a reason "I don't remember" is such a common answer in rooms like this one. It isn't a lie that can be disproven. Nobody can prove what's in someone else's memory. It keeps every door open: if the evidence is weak, he never admitted anything; if the evidence is strong, he never denied it either. Whether Gligor's lack of memory was genuine, as his lawyers would later argue, or a way of saying nothing, only he knows. But either way, those twenty-four minutes gave the Preer family nothing. No explanation. No reason. Not even a denial that sounded like one.
+
 The detectives didn't need him to. They had the DNA. They had the tip from two thousand and two. They had the history: five years as Lauren's boyfriend, the vacations, the knowledge of the house.
 
 The only question left was whether Eugene Gligor would make the Preer family sit through a trial.
