@@ -1,0 +1,546 @@
+{
+  "meta": {
+    "title": "TRUE CRIME TOPIC SHORTLIST",
+    "date": "2026-10-02",
+    "source_file": "~/true-crime-channel/TOPICS_2026-10-02.md",
+    "rules_file": "~/true-crime-channel/TRUE_CRIME_SCRIPT_RULES.md",
+    "rating_scale": "out of 10; all shortlisted cases >= 8.5. Rating = twist strength + 50-min depth + low YouTube saturation + US appeal + legal/monetization safety",
+    "saturation_key": {
+      "LOW": "only local news clips / 1-2 small channels on YouTube (checked 2026-10-02)",
+      "MOD": "a few mid-size docs but no 50-min US-style treatment",
+      "ZERO_EN": "no English long-form coverage found"
+    },
+    "verify_tag": "Any fact marked [verify] must be confirmed against a tier-1/2 source (court record, police release, paper of record) before narration — rules §2.2 two-source rule",
+    "production_rule": "Write in production_order. Tier A first (multiple reversals), then Tier B (one big 'how did they catch him' — name the killer only at the midpoint, rules §5.3 device #1), Tier C (injustice-driven) slotted in for variety, never two C in a row."
+  },
+  "audience_research": {
+    "most_wanted_topics": { "murder_cases": "65%", "serial_killers": "60%", "cold_cases": "55%" },
+    "why_people_watch": { "psychology": "49%", "forensic_science": "48%", "suspense_thrill": "50%", "solving_mysteries": "50%" },
+    "victim_centered_lift": "32% say they would be 'much more' interested if a show is victim-centered",
+    "top_subgenres_2026": ["genealogy-solved cold cases", "wrongful convictions / exonerations", "unusual-evidence forensic cases", "investigation-mistake stories", "interrogation/psychology analysis"],
+    "source": "Edison Research / audiochuck True Crime Consumer Report; fluxnote/vidpros 2026 channel analyses"
+  },
+  "tiers": {
+    "A": "Question-driven end to end; multiple reversals; strongest curiosity",
+    "B": "One big 'how did they catch him?' forensic detective story; withhold the name until midpoint",
+    "C": "'How could the system do this?' — injustice/emotion-driven rather than whodunit"
+  },
+  "cases": [
+    {
+      "order": 1,
+      "tier": "A",
+      "rating": 9.4,
+      "saturation": "LOW (2 tiny videos)",
+      "case": "Lee Rotatori / Thomas Freeman",
+      "location": "Council Bluffs, Iowa, USA",
+      "years": "1982 -> 2021/2022",
+      "central_question": "Who killed Lee — and why could no one find him?",
+      "curiosity_chain": "who? -> found -> he was murdered too -> by whom?",
+      "the_turn": "The name comes back from the genealogy lab — and the first thing detectives learn is that their suspect has been dead since 1982, killed a month after Lee. The case they 'solved' just opened another one.",
+      "summary": "Lee Gunsalus Rotatori, 32, had just moved to Council Bluffs, Iowa, for a new job and was staying in a motel while she looked for a home. On June 25, 1982 she was found stabbed to death in her motel room; she had also been sexually assaulted. There were no witnesses, no suspect, and no leads. The case went cold for almost forty years. In 2019 investigators sent the crime-scene DNA to Parabon NanoLabs; volunteer genealogist Eric Schubert (a college student who had already solved other cold cases) built the family tree. In February 2021 the DNA was matched to Thomas Oscar Freeman, 35 at the time, after Freeman's daughter gave a confirming sample. The announcement came in 2022. Then the second half of the story: Freeman himself had been shot dead around July 1982 — roughly a month after Lee's murder — and his body was found on October 30, 1982 in Cobden, Illinois. His murder has never been solved. Investigators believe the two killings are connected.",
+      "people": [
+        "Lee Rotatori (victim, 32, newly arrived for work)",
+        "Her husband/family [verify names]",
+        "Council Bluffs PD cold-case investigators [verify names]",
+        "Eric Schubert (volunteer genealogist, Parabon NanoLabs)",
+        "Thomas Oscar Freeman (killer, 35, from Illinois [verify background])",
+        "Freeman's daughter (gave confirming DNA)"
+      ],
+      "timeline": [
+        "June 1982 — Lee arrives in Council Bluffs",
+        "June 25, 1982 — found dead in motel room",
+        "Summer 1982 — investigation stalls",
+        "~July 1982 — Freeman shot dead",
+        "Oct 30, 1982 — Freeman's body found in Cobden, Illinois (not linked at the time)",
+        "2019 — DNA sent to Parabon",
+        "Feb 2021 — Freeman identified via daughter's DNA",
+        "2022 — public announcement",
+        "2025 — Freeman's murder still open"
+      ],
+      "evidence_spine": "Crime-scene DNA (1982) -> CODIS no-hit for decades -> genealogy tree -> daughter's sample -> match. Then: Freeman's own homicide file in Illinois.",
+      "angle": "'The man who killed Lee Rotatori was murdered 31 days later. Nobody knows by whom.' Investigators' own line: 'the killer could have been five feet away or a thousand miles away.'",
+      "title_directions": [
+        "Her Killer Was Murdered 31 Days Later",
+        "The Cold Case That Solved Itself — Then Opened Another",
+        "Police Found Her Killer. He'd Been Dead Since 1982."
+      ],
+      "source_leads": [
+        "Council Bluffs PD / Pottawattamie County press releases",
+        "Omaha World-Herald",
+        "Des Moines Register",
+        "KETV / WOWT",
+        "Wikipedia: Murders of Lee Rotatori and Thomas Freeman",
+        "Parabon NanoLabs case page",
+        "Union County (IL) Sheriff on Freeman's death"
+      ],
+      "legal_ethics": "Freeman is deceased — identified by police as the perpetrator, never tried: say 'police identified Freeman as her killer through DNA'; never speculate on who killed Freeman. Sexual assault: state once. Lee's family: use only public statements.",
+      "watch_outs": "Sexual assault = state once. Freeman's daughter gave DNA — living family, facts only."
+    },
+    {
+      "order": 2,
+      "tier": "A",
+      "rating": 9.3,
+      "saturation": "LOW in English (German Netflix doc 'Dig Deeper' exists, 2021)",
+      "case": "Birgit Meier / Wolfgang Sielaff (Göhrde murders)",
+      "location": "Lüneburg, Germany",
+      "years": "1989 -> 2017",
+      "central_question": "Can a top cop solve the one case his own police failed?",
+      "curiosity_chain": "where is she? -> why did police drop it? -> who is the gardener? -> what's under the garage? -> how many more?",
+      "the_turn": "The brother who ran one of Germany's biggest police forces discovers the man his colleagues let walk in 1989 had been living a few kilometres away the whole time — and the answer was literally under his garage floor.",
+      "summary": "On August 14, 1989, Birgit Meier, 41, disappeared from her home in Lüneburg, northern Germany. Her brother was Wolfgang Sielaff — then vice-president of the Hamburg police and head of its state criminal investigation office. Local police treated the case as a possible suicide or looked at her estranged husband. A gardener, Kurt-Werner Wichmann, who worked at the Lüneburg cemetery and for some of the Meiers' neighbours and had met Birgit at a party, was questioned; his alibi (an evening with his wife, then walking the dog) was weak and he hid that he was on sick leave at the time, but police did not dig further. In 1993 Wichmann took his own life in custody after being arrested in another matter [verify circumstances]. The case sat for decades. After retiring, Sielaff assembled a private team — former investigators, a lawyer, a journalist — and re-worked the file. On September 29, 2017, 28 years after she vanished, the team found Birgit's remains walled into a hollow space in a car inspection pit under Wichmann's former garage. In December 2017 police named Wichmann as the prime suspect in the 1989 'Göhrde murders' — two couples killed in the Göhrde forest — and investigators believe he may have killed more.",
+      "people": [
+        "Birgit Meier (victim, 41, mother [verify])",
+        "Wolfgang Sielaff (brother, senior police officer, later private investigator of his own sister's case)",
+        "Birgit's estranged husband (early suspect — cleared)",
+        "Kurt-Werner Wichmann (gardener, suspected serial killer, died 1993)",
+        "Sielaff's private team [verify names]",
+        "NDR journalists present at the dig"
+      ],
+      "timeline": [
+        "Aug 14, 1989 — disappearance",
+        "1989 — Wichmann questioned, released",
+        "1989 — Göhrde forest double murders (same year)",
+        "1993 — Wichmann dies in custody",
+        "2000s — case cold; Sielaff retires",
+        "~2015-2017 — private investigation",
+        "Sept 29, 2017 — remains found under garage",
+        "Dec 2017 — police name Wichmann prime suspect in Göhrde murders",
+        "2021 — Netflix doc 'Dig Deeper'"
+      ],
+      "evidence_spine": "The 1989 interview notes (weak alibi, concealed sick leave) -> Wichmann's property history -> ground search -> the walled-in pit -> forensic identification.",
+      "angle": "'Germany's top detective couldn't get his own force to solve his sister's case. So he did it himself — at 70.'",
+      "title_directions": [
+        "The Police Chief Who Solved His Own Sister's Murder",
+        "Her Body Was Under His Garage for 28 Years",
+        "The Gardener Police Let Go"
+      ],
+      "source_leads": [
+        "Wikipedia: Göhrde murders; Kurt-Werner Wichmann",
+        "DW, The Guardian, Der Spiegel (English)",
+        "NDR coverage",
+        "Netflix 'Dig Deeper: The Disappearance of Birgit Meier' (2021) — map only, not a source",
+        "Lüneburg prosecutor statements"
+      ],
+      "legal_ethics": "Wichmann is dead and was never convicted of any of these killings — always 'prime suspect' / 'police believe'. The Göhrde murders remain officially unsolved. The estranged husband was wrongly suspected — say so plainly and move on.",
+      "watch_outs": "Research mostly German press — use DW/Guardian/NDR. Wichmann dead; Göhrde murders officially unsolved -> 'prime suspect' language."
+    },
+    {
+      "order": 3,
+      "tier": "A",
+      "rating": 9.0,
+      "saturation": "LOW-MOD (local news + 2 small docs)",
+      "case": "Leslie Preer / Eugene Gligor",
+      "location": "Chevy Chase, Maryland, USA",
+      "years": "2001 -> 2024/2025",
+      "central_question": "Who did Leslie let into the house that morning?",
+      "curiosity_chain": "who did she let in? -> the husband? -> a neighbour named him in 2001?! -> the daughter's ex -> how did he hide 23 years?",
+      "the_turn": "The genealogy lab hands detectives a surname — and when they pull the old file, the same surname is sitting in a neighbour's tip from years earlier that nobody checked.",
+      "summary": "On May 2, 2001, Leslie Ann Preer, 49, was found dead in the shower of her home in Chevy Chase, an affluent suburb of Washington, D.C. She had been violently assaulted; there were signs of a struggle and no forced entry, which told investigators she probably knew her attacker. Her husband was never charged but lived under public suspicion for more than two decades. In September 2022 Montgomery County police sent the 2001 DNA to Othram for genetic genealogy. The family tree led to the Gligor family — and to a tip a neighbour had given in 2001/2009 [verify which year; sources differ] naming the daughter's former boyfriend, Eugene Teodor Gligor, which was never acted on. Investigators followed Gligor and collected a water bottle he discarded at Dulles Airport; the DNA matched. He was arrested June 18, 2024. He pleaded guilty to second-degree murder and in August 2025 was sentenced to 22 years.",
+      "people": [
+        "Leslie Preer (victim, 49)",
+        "Her husband [verify name] (wrongly suspected, never charged)",
+        "Her daughter (Gligor's ex-girlfriend in high school [verify])",
+        "The neighbour who tipped police",
+        "Montgomery County cold-case detectives [verify names]",
+        "Eugene Teodor Gligor (45 at arrest; lived in Washington, D.C.)"
+      ],
+      "timeline": [
+        "May 2, 2001 — murder",
+        "2001-2009 — neighbour's tip about Gligor not followed up",
+        "2001-2022 — husband under suspicion, case cold",
+        "Sept 2022 — DNA to Othram",
+        "2023-24 — genealogy narrows to Gligor; water bottle at Dulles",
+        "June 18, 2024 — arrest",
+        "2025 — guilty plea",
+        "Aug 2025 — sentenced to 22 years"
+      ],
+      "evidence_spine": "No forced entry -> 2001 DNA -> 2022 genealogy (Othram) -> the neighbour's tip rediscovered -> airport water bottle -> match -> plea.",
+      "angle": "'The answer was in the file for 23 years.' The cost of the un-followed tip: a husband suspected for two decades, a killer living freely in D.C.",
+      "title_directions": [
+        "The Neighbor Told Police His Name in 2001",
+        "Her Daughter's Ex-Boyfriend. 23 Years Later.",
+        "The Water Bottle at Dulles Airport"
+      ],
+      "source_leads": [
+        "Montgomery County PD press releases",
+        "Washington Post",
+        "WTOP",
+        "Bethesda Magazine",
+        "Montgomery County Circuit Court docket",
+        "Wikipedia: Murder of Leslie Preer"
+      ],
+      "legal_ethics": "Living family throughout: husband (wrongly suspected — state that he was never charged and the DNA excluded him), daughter (never implicated). Gligor convicted by plea — 'pleaded guilty to second-degree murder' is the exact phrase. Violence: 'violent assault' only.",
+      "watch_outs": "Living family + the husband who was wrongly suspected — §7 language exact."
+    },
+    {
+      "order": 4,
+      "tier": "A",
+      "rating": 9.0,
+      "saturation": "ZERO_EN (French coverage only)",
+      "case": "Delphine Jubillar / Cédric Jubillar",
+      "location": "Cagnac-les-Mines (near Albi), France",
+      "years": "2020 -> 2025/2026",
+      "central_question": "Can you convict a husband of murder with no body?",
+      "curiosity_chain": "murder without a body? -> glasses, son, screams -> convicted but denying -> confession -> remains",
+      "the_turn": "With no body, no weapon and no confession, the prosecution's case rests on a pair of broken glasses and a child's memory of a fight — and the jury convicts.",
+      "summary": "Delphine Jubillar, 33, a nurse and mother of two, vanished from her home in Cagnac-les-Mines near Albi, southern France, on the night of December 15-16, 2020. Her husband Cédric, a plasterer, reported her missing; the couple were separating. Her body was never found. Investigators built a circumstantial case: Delphine's glasses were found broken in the house, the couple's young son described hearing an argument that night, neighbours reported screams, phone data and Cédric's behaviour [verify specifics]. Cédric was arrested in June 2021 and spent years in pre-trial detention insisting he had done nothing. The trial opened at the Tarn assizes court in Albi on September 22, 2025; on October 17, 2025 he was found guilty of murder and sentenced to 30 years. His lawyers announced an appeal (retrial in Toulouse, spring 2027). Then, in 2026, French media reported that Cédric confessed in a letter to his lawyer, gave details about where the body was, and remains found in July near Mailhoc were confirmed as Delphine's [verify all 2026 developments against Le Monde / France 24 / BFMTV before use].",
+      "people": [
+        "Delphine Jubillar (victim, 33, nurse)",
+        "Cédric Jubillar (husband, convicted)",
+        "Their two children (minors — no detail beyond the record)",
+        "Delphine's new partner [verify]",
+        "Investigating magistrates",
+        "Defence lawyers",
+        "The gendarmes criticised for the first hours of the search"
+      ],
+      "timeline": [
+        "Dec 15-16, 2020 — disappearance",
+        "Dec 2020 — massive searches, mine shafts",
+        "June 2021 — Cédric arrested",
+        "2021-2025 — detention, repeated bail refusals",
+        "Sept 22, 2025 — trial opens in Albi",
+        "Oct 17, 2025 — guilty, 30 years; appeal announced",
+        "2026 — confession letter + remains found + identified [verify]",
+        "Spring 2027 — appeal retrial due (Toulouse)"
+      ],
+      "evidence_spine": "The glasses -> the son's statement -> neighbours' screams -> phone/activity data -> conviction -> (2026) the confession and the remains.",
+      "angle": "'France's perfect murder — until the perfect murderer wrote a letter.' Also: how a nation followed one case for five years.",
+      "title_directions": [
+        "Convicted of Murder Without a Body — Then He Confessed",
+        "The Broken Glasses That Convicted a Husband",
+        "France's Perfect Murder"
+      ],
+      "source_leads": [
+        "Le Monde",
+        "France 24 (English)",
+        "BFMTV",
+        "La Dépêche du Midi (local paper of record)",
+        "Wikipedia (EN/FR): Murder of Delphine Jubillar",
+        "Court reporting from Albi",
+        "2026 TF1 / France TV documentaries — maps only"
+      ],
+      "legal_ethics": "Convicted but appeal pending: 'convicted of murder in October 2025; his appeal is scheduled for 2027.' Children are minors — their testimony only as described in open court. Criticism of the gendarmes: attribute to the reporting/expert commentary that made it.",
+      "watch_outs": "Appeal pending -> 'convicted, appeal pending'. Children are minors. French sources."
+    },
+    {
+      "order": 5,
+      "tier": "A",
+      "rating": 8.8,
+      "saturation": "LOW in US (60 Minutes Australia, Casefile ep 231)",
+      "case": "Henry Keogh / Dr Colin Manock (death of Anna-Jane Cheney)",
+      "location": "Adelaide, South Australia",
+      "years": "1994 -> 2014/2018",
+      "central_question": "Was it murder — or was the expert the problem?",
+      "curiosity_chain": "murder or accident? -> grip marks -> only one man could see them -> he was never qualified -> 400 other convictions?",
+      "the_turn": "The marks on her leg that proved murder could only be seen by one man — and that man had never been qualified for the job he'd held for 27 years.",
+      "summary": "On March 18, 1994 [verify date], Anna-Jane Cheney, 29, a lawyer and head of professional conduct at the Law Society of South Australia, was found dead in the bath at the Adelaide home she shared with her fiancé Henry Keogh, weeks before their wedding. Keogh was charged with murder. The Crown's theory came from the state's chief forensic pathologist, Dr Colin Manock: bruises on Anna-Jane's calf were 'grip marks' showing Keogh had lifted her legs to drown her. The motive offered was about $1.15 million in life-insurance policies. Keogh was convicted in 1995 and sentenced to 26 years. For two decades he and supporters fought the forensic case. In December 2014 the Court of Criminal Appeal quashed the conviction: the bruises could have been days old, Manock had not visited the scene for three months nor reviewed her medical records, and the proposed drowning mechanism was physically implausible given the bath's position. The DPP declined a retrial in November 2015. Keogh received $2.6 million in compensation. The larger scandal: Manock had been appointed in 1968 without the necessary qualifications, performed around 10,000 autopsies over 27 years, and gave evidence in roughly 400 trials.",
+      "people": [
+        "Anna-Jane Cheney (victim, 29)",
+        "Henry Keogh (fiancé, convicted, later exonerated)",
+        "Dr Colin Manock (chief forensic pathologist 1968-1995)",
+        "The four independent pathologists who later reviewed the evidence",
+        "Civil Liberties Australia / supporters",
+        "SA parliamentarians who pushed the inquiry"
+      ],
+      "timeline": [
+        "1994 — death",
+        "1995 — conviction, 26 years",
+        "2000s — repeated appeals and petitions fail",
+        "2013 — new statutory right to appeal on fresh evidence (SA law change) [verify]",
+        "Dec 2014 — conviction quashed, Keogh released",
+        "Nov 2015 — no retrial",
+        "2018 — compensation $2.6M",
+        "Ongoing — calls for review of Manock cases"
+      ],
+      "evidence_spine": "The bruises/'grip marks' -> the insurance policies -> Manock's testimony -> the 2014 review (timing of bruises, scene geometry) -> the quashing -> Manock's credentials.",
+      "angle": "'The expert witness who wasn't.' A system story told through one couple.",
+      "title_directions": [
+        "20 Years in Prison Because of Marks Only One Man Could See",
+        "The Pathologist Who Was Never Qualified",
+        "She Drowned in the Bath. He Got 26 Years."
+      ],
+      "source_leads": [
+        "Court of Criminal Appeal judgment R v Keogh (2014) SASCFC",
+        "SA Parliament Hansard",
+        "ABC Australia",
+        "The Advertiser (Adelaide)",
+        "Civil Liberties Australia case files",
+        "Casefile episode 231 — map only"
+      ],
+      "legal_ethics": "Keogh is exonerated — never imply guilt. Manock may be living: describe only what the court and parliament found; no 'fraud' unless a court used the word. The death itself: 'found in the bath' — no more.",
+      "watch_outs": "Keogh and Manock living — only findings from the Court of Criminal Appeal / parliamentary record."
+    },
+    {
+      "order": 6,
+      "tier": "C",
+      "rating": 9.2,
+      "saturation": "MOD (news + 2 mid docs, no 50-min US doc)",
+      "case": "Iwao Hakamada",
+      "location": "Shizuoka, Japan",
+      "years": "1966 -> 2024",
+      "central_question": "How does an innocent man spend 46 years waiting to be hanged?",
+      "curiosity_chain": "how does an innocent man wait 46 years to hang? -> who planted the clothes? -> the judge who regretted it",
+      "the_turn": "The evidence that put him on death row surfaced a year late — and the court finally rules it was planted by the people who arrested him.",
+      "summary": "Iwao Hakamada, a former professional boxer, worked at a miso (soybean paste) plant in Shizuoka. On June 30, 1966, the plant's managing director, his wife and two children were found stabbed to death in their burned home. Hakamada was arrested, interrogated for weeks (up to 12 hours a day, by his account beaten), and confessed; he retracted the confession at trial. More than a year after the murders, five pieces of blood-stained clothing were 'discovered' in a miso tank at the plant and became the key evidence — even though the trousers did not fit him. He was sentenced to death in 1968 and spent 46 years on death row, much of it in solitary, waiting for an execution that could come any morning. His sister Hideko campaigned for him for decades. One of the three judges who sentenced him, Norimichi Kumamoto, later said he had believed Hakamada innocent and publicly apologised [verify]. In 2014 DNA testing found the blood did not match him or the victims; he was released pending retrial. The Tokyo High Court reversed that in 2016; the Supreme Court sent it back in 2020; the High Court granted a retrial in 2023. On September 26, 2024, the Shizuoka District Court acquitted him, finding the bloodstains had been processed and placed in the tank by investigators long after the crime — the blood would have stayed reddish only if it had been in miso for far less than a year. He was 88. He was later awarded about $1.4 million (217 million yen) in compensation [verify amount].",
+      "people": [
+        "Iwao Hakamada",
+        "Hideko Hakamada (sister, b. 1933)",
+        "The victim family (managing director and family — name only from the record)",
+        "Judge Norimichi Kumamoto",
+        "Defence lawyers across five decades",
+        "Amnesty International"
+      ],
+      "timeline": [
+        "June 30, 1966 — murders",
+        "Aug 1966 — arrest, confession",
+        "1967 — clothing found in miso tank",
+        "1968 — death sentence",
+        "1980 — Supreme Court upholds",
+        "2014 — DNA, release pending retrial",
+        "2016 — High Court reverses",
+        "2020 — Supreme Court remands",
+        "2023 — retrial granted",
+        "Sept 26, 2024 — acquittal",
+        "2025 — compensation"
+      ],
+      "evidence_spine": "The confession -> the miso-tank clothes (and the trousers that didn't fit) -> the 2014 DNA -> the colour-of-blood-in-miso experiment -> acquittal.",
+      "angle": "'What 46 years on death row does to a man — and to the sister who waited.' Also: the judge who sentenced him and regretted it.",
+      "title_directions": [
+        "46 Years on Death Row for Evidence Police Planted",
+        "The Boxer Japan Tried to Hang",
+        "The Clothes in the Miso Tank"
+      ],
+      "source_leads": [
+        "Death Penalty Information Center summary",
+        "Amnesty International",
+        "NHK World",
+        "Japan Times / Kyodo",
+        "The Guardian",
+        "Shizuoka District Court ruling summaries (English)",
+        "Documentary 'Fists and Prayers' — map only"
+      ],
+      "legal_ethics": "Acquitted — innocent. The original victims: four people including children — state only. Police misconduct: the court's words ('fabricated/processed by investigators'), attributed to the ruling.",
+      "watch_outs": "Victims = his boss's family of 4 (stabbed; fire) — state only. Sister Hideko (90s) is the human spine."
+    },
+    {
+      "order": 7,
+      "tier": "B",
+      "rating": 8.8,
+      "saturation": "LOW",
+      "case": "Sylvia Quayle / David Dwayne Anderson",
+      "location": "Cherry Hills Village, Colorado, USA",
+      "years": "1981 -> 2022",
+      "central_question": "Who cut the phone lines in Denver's richest suburb?",
+      "curiosity_chain": "who cut the phone lines? -> 40 years -> a Coke can in Nebraska -> mistrial -> 41 years to the day",
+      "the_turn": "Forty years after the phone lines were cut, a genealogist's family tree ends at a house in Nebraska — and the proof comes out of the garbage.",
+      "summary": "On August 4, 1981, Sylvia Quayle, 34, was found dead in her home in Cherry Hills Village, one of the wealthiest suburbs of Denver, by her father. She had been shot and stabbed and sexually assaulted; the phone lines inside and outside the house had been cut. The small Cherry Hills Village police department had no suspect. Decades later a DNA profile from the scene was entered into databases with no hit. In 2020 the department partnered with United Data Connect, a genealogy firm, which uploaded the profile to two public databases and narrowed it to David Dwayne Anderson. In 2021 an investigator discreetly collected trash from Anderson's home in Cozad, Nebraska; a discarded Vanilla Coke can carried DNA matching the crime scene. He was arrested in February 2021. A first trial in March 2022 ended in a mistrial; the retrial that began June 30, 2022 returned a guilty verdict on first-degree murder and felony murder. Under 1981 sentencing law the maximum was life with parole eligibility after 20 years — and Judge Darren Vahle imposed it on August 4, 2022, 41 years to the day after the murder.",
+      "people": [
+        "Sylvia Quayle (victim, 34)",
+        "Her father (found her) and family",
+        "Cherry Hills Village PD (tiny department [verify chief's name])",
+        "United Data Connect (co-founder Mitch Morrissey, former Denver DA [verify])",
+        "David Dwayne Anderson (63 at trial; of Cozad, Nebraska)",
+        "18th Judicial District DA",
+        "Judge Darren Vahle"
+      ],
+      "timeline": [
+        "Aug 4, 1981 — murder",
+        "Decades — cold",
+        "2000s — DNA profile, no CODIS hit",
+        "2020 — genealogy partnership",
+        "2021 — trash pull, Vanilla Coke can",
+        "Feb 2021 — arrest in Nebraska",
+        "Mar 2022 — mistrial",
+        "June 30, 2022 — retrial, guilty",
+        "Aug 4, 2022 — sentence, 41 years to the day"
+      ],
+      "evidence_spine": "Cut phone lines -> crime-scene DNA -> public genealogy databases -> trash pull -> Vanilla Coke can -> match -> mistrial -> conviction.",
+      "angle": "'A murder in America's richest zip code solved by a soda can — and sentenced on the anniversary.' Also: what 1981 law meant for the sentence.",
+      "title_directions": [
+        "The Vanilla Coke Can That Solved a 1981 Murder",
+        "He Cut the Phone Lines. Then Waited 40 Years.",
+        "Sentenced 41 Years to the Day"
+      ],
+      "source_leads": [
+        "18th Judicial District DA news release (July 2022)",
+        "Denver Gazette",
+        "CBS Colorado",
+        "Denver7",
+        "KOAA",
+        "Boston 25 (trash-pull detail)",
+        "Arapahoe County court records"
+      ],
+      "legal_ethics": "Convicted at trial — 'convicted of first-degree murder'. Sexual assault: one clause. The mistrial reason: report only what the court stated [verify reason].",
+      "watch_outs": "Sexual assault = state once."
+    },
+    {
+      "order": 8,
+      "tier": "B",
+      "rating": 8.7,
+      "saturation": "LOW (one 1996 Forensic Files episode)",
+      "case": "Denise Johnson / Mark Alan Bogan (first plant-DNA conviction)",
+      "location": "Maricopa County (Phoenix), Arizona, USA",
+      "years": "1992 -> 1995",
+      "central_question": "How do you make a tree testify?",
+      "curiosity_chain": "how do you make a tree testify? -> seed pods -> the tree line-up -> will a court accept it?",
+      "the_turn": "Bogan says he was never there. The only witness who can contradict him is a tree.",
+      "summary": "On the morning of Sunday, May 3, 1992, a man riding a dirt bike in a remote area of western Maricopa County known as the Caterpillar Proving Grounds found the body of a woman lying face down near a cluster of palo verde trees. She was Denise Johnson [verify full name/age]; she had been beaten, bound and strangled. A witness had seen a pickup truck leaving the area. Police traced the truck to Mark Alan Bogan, who admitted picking up a woman but said he'd dropped her off alive — and denied being at the site. Investigators noticed a fresh abrasion on a low branch of one palo verde at the scene, and found two palo verde seed pods in the bed of Bogan's truck. They asked Dr Timothy Helentjaris, a molecular geneticist at the University of Arizona, whether a tree could be identified like a person. He DNA-typed the pods and a set of palo verde trees from the scene and elsewhere in a blind 'tree line-up': the pods matched the one tree with the fresh abrasion and no other. It was the first time plant DNA was admitted in a US criminal trial. Bogan was convicted of first-degree murder and sentenced to life (25 years before parole eligibility); the Arizona Court of Appeals upheld the conviction in State v. Bogan (1995).",
+      "people": [
+        "Denise Johnson (victim)",
+        "Tim Faulkner (dirt-bike rider who found her)",
+        "The witness who saw the truck",
+        "Maricopa County Sheriff's detectives [verify names]",
+        "Dr Timothy Helentjaris (geneticist, University of Arizona)",
+        "Mark Alan Bogan (defendant)",
+        "Defence experts who challenged the science"
+      ],
+      "timeline": [
+        "May 2-3, 1992 — killing and discovery",
+        "1992 — truck traced to Bogan, interview (scratches on face noted [verify])",
+        "1992 — seed pods found; geneticist consulted",
+        "1993 — trial, admissibility hearing, conviction, life",
+        "1995 — appeal upheld (State v. Bogan)",
+        "After — textbook forensic-botany precedent"
+      ],
+      "evidence_spine": "The witness truck sighting -> Bogan's denial -> the abraded branch -> the pods in the truck bed -> RAPD DNA typing of palo verde -> the blind line-up -> admissibility ruling -> verdict.",
+      "angle": "'The first tree to testify in a murder trial.' A science-first story with a clean procedural spine.",
+      "title_directions": [
+        "The Tree That Convicted a Killer",
+        "Two Seed Pods in a Truck Bed",
+        "The First Murder Solved by Plant DNA"
+      ],
+      "source_leads": [
+        "State v. Bogan, 183 Ariz. 506 (Ct. App. 1995) — full opinion (NIJ hosts a PDF)",
+        "NIJ 'DNA for the Prosecutor' plant-DNA note",
+        "Forensic Files S1E5 'Planted Evidence' — map only",
+        "University of Arizona / Helentjaris interviews",
+        "Arizona Republic 1992-93 archives"
+      ],
+      "legal_ethics": "Straightforward: convicted at trial, upheld on appeal. Victim details are thin in public sources — do the §8 work to make Denise a person (family statements, local press).",
+      "watch_outs": "Verify year (1992) and victim details against the appeal ruling (NIJ PDF)."
+    },
+    {
+      "order": 9,
+      "tier": "C",
+      "rating": 8.6,
+      "saturation": "LOW-MOD (news only)",
+      "case": "Glynn Simmons",
+      "location": "Edmond, Oklahoma, USA",
+      "years": "1974 -> 2023",
+      "central_question": "How was a man in Louisiana convicted of a murder in Oklahoma?",
+      "curiosity_chain": "how was a man in Louisiana convicted in Oklahoma? -> the hidden report -> 48 years",
+      "the_turn": "The report that would have freed him in 1975 was in a police file the whole time.",
+      "summary": "On December 30, 1974, Carolyn Sue Rogers was shot and killed during a robbery of a liquor store in Edmond, Oklahoma; a customer was wounded [verify]. Glynn Simmons, then 22, and Don Roberts were convicted in 1975 and sentenced to death; the sentences were reduced to life in 1977 after US Supreme Court capital-punishment rulings. Simmons always said he was in Harvey, Louisiana at the time. The conviction rested largely on an eyewitness identification from a lineup. What the defense never saw: a police report showing the same witness had identified other men. In 2023, after the Oklahoma County DA agreed the report had been withheld (a Brady violation), the conviction was vacated in July; Simmons was released; and on December 19, 2023 a judge declared him actually innocent. He had served 48 years, 1 month and 18 days — the longest wrongful imprisonment in US history. Roberts had been paroled in 2008. Oklahoma's compensation cap was $175,000 [verify]; Simmons, then 71, was fighting cancer at release [verify].",
+      "people": [
+        "Carolyn Sue Rogers (victim)",
+        "The wounded customer / eyewitness",
+        "Glynn Simmons",
+        "Don Roberts (co-defendant)",
+        "Defense attorney Joe Norwood [verify] and the team who found the report",
+        "Oklahoma County DA Vicki Behenna",
+        "Judge Amy Palumbo"
+      ],
+      "timeline": [
+        "Dec 30, 1974 — robbery-murder",
+        "1975 — trial, death sentences",
+        "1977 — commuted to life",
+        "Decades — denied appeals",
+        "2008 — Roberts paroled",
+        "2023 — withheld report surfaces; July 2023 conviction vacated, release",
+        "Dec 19, 2023 — innocence ruling",
+        "2024 — compensation claim"
+      ],
+      "evidence_spine": "The lineup -> the eyewitness -> the hidden report (other men identified) -> the Louisiana alibi -> Brady finding -> vacatur -> innocence ruling.",
+      "angle": "'Forty-eight years for a crime 600 miles away.' The human cost of one undisclosed page.",
+      "title_directions": [
+        "48 Years in Prison for a Murder in Another State",
+        "The Page the Prosecutors Hid",
+        "The Longest Wrongful Imprisonment in American History"
+      ],
+      "source_leads": [
+        "Oklahoma County District Court order (Dec 2023)",
+        "DA's filings",
+        "The Oklahoman",
+        "AP",
+        "National Registry of Exonerations entry",
+        "Oxygen",
+        "Wikipedia: Glynn Simmons"
+      ],
+      "legal_ethics": "Simmons is living and legally innocent. Roberts: paroled, conviction status [verify] — be careful not to imply his guilt or innocence beyond the record. Name the victim throughout.",
+      "watch_outs": "Living exoneree; stick to court order + DA statements."
+    },
+    {
+      "order": 10,
+      "tier": "B",
+      "rating": 8.5,
+      "saturation": "MOD (local news, Oxygen)",
+      "case": "Jeanie Childs / Jerry Westrom",
+      "location": "Minneapolis, Minnesota, USA",
+      "years": "1993 -> 2022/2024",
+      "central_question": "How does a businessman's hot-dog napkin solve a 26-year-old murder?",
+      "curiosity_chain": "how does a napkin solve a 26-year-old murder? -> the hockey game -> 2-hour verdict -> the appeal",
+      "the_turn": "The name the genealogy returns belongs to a respectable family man with no record — so detectives need his DNA without his knowledge, and a hot dog gives it to them.",
+      "summary": "On June 13, 1993 [verify date], Jeanne 'Jeanie' Ann Childs, 35, was found stabbed to death in her Minneapolis apartment; a bloody footprint was near her body and male DNA was recovered from a towel, washcloth, comforter and T-shirt. Jeanie had worked as a sex worker; the case drew little attention and went cold. In 2018 Minneapolis police reopened it and in 2019 a genealogy search pointed to Jerry Westrom, a 52-year-old businessman from Isanti, Minnesota, with a family and no violent record. Investigators followed him to a hockey game he attended with his daughter, watched him eat a hot dog and wipe his face, and recovered the napkins from the trash. The DNA matched. He was arrested in February 2019. At trial in 2022 the jury deliberated about two hours and convicted him of first- and second-degree murder; he received a mandatory life sentence. He appealed to the Minnesota Supreme Court, which heard the case in 2024 [verify outcome].",
+      "people": [
+        "Jeanie Childs (victim, 35 — build her as a person: family, childhood, what friends said)",
+        "Her family who waited 26 years",
+        "Minneapolis cold-case investigators and Hennepin County prosecutors [verify names]",
+        "Jerry Westrom",
+        "His family",
+        "Defence counsel (argued contamination/alternative explanations [verify])"
+      ],
+      "timeline": [
+        "June 1993 — murder; investigation stalls",
+        "2015-2018 — case reopened, DNA re-tested",
+        "2019 — genealogy lead; hockey-game napkin",
+        "Feb 2019 — arrest",
+        "Aug 2022 — trial, guilty in ~2 hours; life sentence",
+        "2023-24 — Minnesota Supreme Court appeal [verify outcome]"
+      ],
+      "evidence_spine": "The bloody footprint and bedding DNA -> genealogy -> surveillance at the hockey game -> napkin DNA -> footprint comparison [verify] -> verdict -> appeal.",
+      "angle": "'The case nobody cared about in 1993, and the napkin that ended it.' A victim-centred retelling of a woman the city ignored.",
+      "title_directions": [
+        "The Hot Dog Napkin That Solved a 1993 Murder",
+        "A Businessman, a Hockey Game, and a 26-Year-Old Secret",
+        "Nobody Looked for Jeanie's Killer. Until the Napkin."
+      ],
+      "source_leads": [
+        "Hennepin County Attorney's Office releases",
+        "Star Tribune",
+        "CBS Minnesota (WCCO)",
+        "FOX 9",
+        "Minnesota Supreme Court opinion State v. Westrom (2024) [verify]",
+        "Oxygen / ID write-ups — maps only"
+      ],
+      "legal_ethics": "'Stabbed' — once; never the number of wounds in narration beyond a single factual clause if needed. Jeanie's work: stated plainly, without judgement, after she has been introduced as a person. Westrom convicted at trial; note the appeal and its result accurately.",
+      "watch_outs": "'Stabbed 65 times' = state once, never describe. Victim was a sex worker — full person first (§8)."
+    }
+  ],
+  "alternates_below_8_5": [
+    { "case": "Melonie White (Las Vegas 1994; Vegas Justice League citizen-funded genealogy; suspect Arthur Joseph Lavery, died Feb 2021)", "rating": 8.3, "reason": "no trial" },
+    { "case": "Louisa Dunne / Ryland Headley (Bristol 1967 -> 2025; 92-year-old convicted, UK's oldest solved case)", "rating": 8.4, "reason": "heavy UK news coverage" },
+    { "case": "Claire Gravel / John Carey (Salem, MA 1986 -> 2026)", "rating": 8.3, "reason": "straightforward CODIS hit" },
+    { "case": "Phyllis Bailer (Indiana 1972 -> 2025; 3-year-old daughter found alive beside her; suspect Fred Lienemann died 1985)", "rating": 8.2, "reason": "suspect died 1985, no trial" },
+    { "case": "Timothy Verrill (New Hampshire 2017; Amazon Echo recordings ordered released)", "rating": 8.0, "reason": "trial-stream saturated" }
+  ],
+  "rejected_saturated_do_not_write": [
+    "Anna Repkina / William Hargrove",
+    "Mengqi Ji / Joseph Elledge",
+    "Jean-Claude Romand",
+    "Nicole Vander Heyden (Fitbit)",
+    "Connie Dabate (Fitbit)",
+    "Snowball the cat / Shirley Duguay",
+    "Hwaseong murders / Lee Choon-jae",
+    "Cheyenne Antoine selfie",
+    "Bud the parrot / Glenna Duram"
+  ],
+  "rejected_under_rules_section_1_minors_or_child_sexual_violence": [
+    "Carol Ann Dougherty",
+    "Diane Peterson (16-year-old killer)",
+    "Minerliz Soriano",
+    "Lisa from Abcoude",
+    "Marise Chiverella",
+    "Christine Jessop",
+    "Stephanie Isaacson"
+  ]
+}
