@@ -1,6 +1,6 @@
 # True Crime Channel — Production Tracker
 
-Rules: `TRUE_CRIME_SCRIPT_RULES.md` · Topics: `TOPICS_2026-10-02.json`
+Rules: `TRUE_CRIME_SCRIPT_RULES.md` · Topics: `TOPICS_2026-10-02.json` · Footage sourcing: `FOOTAGE_SOURCES.md`
 
 | # | Case | Structure | Words | Status |
 |---|---|---|---|---|
