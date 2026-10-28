@@ -12,7 +12,7 @@ If you change either line, change it in all five scripts.
 | # | Title | File | Words | Checker |
 |---|---|---|---|---|
 | 01 | You Are Not Lazy. You Are Tired of Losing. | `scripts/01_you-are-not-lazy.md` | 7,648 | PASS |
-| 02 | You Were the Smart Kid. What Happened? | `scripts/02_you-were-the-smart-kid.md` | | |
+| 02 | You Were the Smart Kid. What Happened? | `scripts/02_you-were-the-smart-kid.md` | 7,360 | PASS |
 | 03 | When Your Friends All Moved Ahead | `scripts/03_when-your-friends-moved-ahead.md` | 7,965 | PASS |
 | 04 | You Survived Things Nobody Knows About | `scripts/04_you-survived-things-nobody-knows.md` | | |
 | 05 | The Man Who Was Replaced by a Machine | `scripts/05_the-man-replaced-by-a-machine.md` | 7,317 | PASS |

@@ -314,9 +314,9 @@ But surely there is one. A friend who has been quietly kind. A sister or a broth
 
 Here is what to do with this tomorrow.
 
-Think of that one person. Just one. Then write down one sentence you could say to them. Keep it short. You might say, "I have been going through something hard." You might say, "Can I tell you what this year has really been like?" Or just Sam's four words, with your own story inside them.
+Think of that one person. Just one. Then write down one sentence you could say to them. Keep it short. You might say, "I have been going through something hard." Or you might ask what Sam never dared to ask anyone. "Can I tell you what this year has really been like?" Or just Sam's four words, with your own story inside them.
 
-You do not have to say it tomorrow. But write it down. Carry it in your pocket. Let it get used to the light. And when the moment comes, and it will come, you will have the words ready.
+You do not have to say it tomorrow. But write it down. Carry it in your pocket. Read it once or twice a day, so the words stop feeling strange in your mouth. Let it get used to the light. And when the moment comes, and it will come, you will have the words ready.
 
 Remember Dana, the teacher in the car? I told you I would come back to her. This is where her story turns.
 
@@ -350,6 +350,8 @@ But you can choose to give it one.
 
 You know something now that you did not know before. You know what the dark looks like from the inside. You know the sound of a house at three in the morning when sleep will not come. You know how a person can smile and be breaking. You know the signs, because you wore them.
 
+You also know what helped, and what did not. You know that "everything happens for a reason" can land like a slap. You know that "let me know if you need anything" often means nothing. And you know that a person who simply shows up, sits down and stays can mean everything. Most people have to guess at these things. You do not.
+
 That knowledge is a lantern. Not because the dark was good. But because you came back from it, and you know the way.
 
 The road you crawled down in the dark is the road you can now walk someone else along, with a light in your hand.
@@ -360,7 +362,7 @@ One word of care, though. Helping someone else is not the same as carrying them.
 
 So tomorrow, keep your eyes open. Somewhere near you is a person under that tree, with their hands on the wheel. You may not see them at first. People like us are very good at hiding. But you know what to look for now.
 
-And when you see them, knock gently.
+And when you see them, knock gently. You will not need clever words. You will only need to be the person you once wished would come.
 
 But I need to be honest with you about one more thing. Because survival, even survival that helps others, is still not the whole story. There is a place beyond surviving. Most people who have been through hard things never let themselves go there.
 
@@ -391,6 +393,10 @@ Here is what I want you to understand.
 Survival is a skill. It is a beautiful, necessary, hard-won skill, and you have it. But survival has a way of becoming a habit. Even after the storm passes, people keep living as if the storm is still overhead. They keep their heads down. They keep their plans small. They stay ready for the next blow, and they forget to look up.
 
 Maybe that is you. Maybe the hardest season is behind you, or mostly behind you, but you are still living in crisis mode. Still bracing. Still getting through the days instead of having them.
+
+You can tell by the small signs. You do not buy the nicer thing, even when you can afford it, because you might need the money for the next disaster. You do not make plans for next summer, because who knows what will happen. When something good comes along, your first thought is not joy. Your first thought is, "What is the catch?" Your body learned to stay ready for trouble. It has not yet learned that it is allowed to rest.
+
+That is not a flaw. It is a guard who was never told the war had ended. Walter had one too. The plant was how he began, slowly, to send that guard home.
 
 If so, I want to give you permission to want more than getting through.
 
@@ -425,6 +431,8 @@ You are the one who got up on the morning after. You are the one who smiled thro
 And you are still here.
 
 I want you to sit with that for a moment. You are still here. After everything. After all of it. Whatever tried to take you down, it did not finish the job. You are still breathing. Still listening. Still hoping, a little, or you would not have stayed with me this long.
+
+Think of the version of you from the worst night. The one sitting on the edge of the bed, or on the bathroom floor, or in the car with the engine off. If you could go back and sit beside that person, what would you tell them? I think you would say, "Hold on. You are going to make it. I know, because I am you, and I made it." You are the living answer to that night's question.
 
 That is not luck. That is not nothing. That is the quiet work of a strong person who never got the credit.
 

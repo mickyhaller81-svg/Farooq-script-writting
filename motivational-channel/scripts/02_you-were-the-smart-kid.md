@@ -98,9 +98,9 @@ You will notice how strange that feels. The smart kid is used to announcing big 
 
 You are not living up to anyone's potential anymore. You are living up to your own next step. And a next step is light enough to carry.
 
-But setting down the crown is only the first room. Before we move on, let me say one more thing about Henry. He is not a sad story. Not yet. He is a story that has not finished. And neither are you. The crown can come off at forty-one, or fifty-one, or seventy. It only has to come off once.
+Before we move on, let me say one more thing about Henry. He is not a sad story. Not yet. He is a story that has not finished. And neither are you. The crown can come off at forty-one, or fifty-one, or seventy. It only has to come off once.
 
-Because the moment you try to build something real, you are going to hit a wall that most smart kids never learned to climb. Have you ever wondered why the hard thing feels so much harder for you than for others? Let me show you why.
+But setting down the crown is only the first room. The moment you try to build something real, you are going to hit a wall that most smart kids never learned to climb. Have you ever wondered why the hard thing feels so much harder for you than for others? Let me show you why.
 
 ## Movement two: Never learning to be bad
 
@@ -148,7 +148,7 @@ Do the same thing the next day. And the next. Within a week, two things will hap
 
 Keep a small note of it, too. Each day, write one line. Felt like quitting at minute six. Kept going. Felt silly, but less than yesterday. These little notes are not about the skill. They are proof, in your own handwriting, that you can stay in the middle and come out the other side.
 
-That second thing is the real prize. Because once the feeling of being bad stops scaring you, the whole world opens up. You can apply for the job you are not quite ready for. You can start the business you do not fully understand. You can take the class where everyone else seems ahead.
+That growing comfort with being bad is the real prize. Because once the feeling of being bad stops scaring you, the whole world opens up. You can apply for the job you are not quite ready for. You can start the business you do not fully understand. You can take the class where everyone else seems ahead.
 
 The fog does not get thinner. You just stop being afraid of it.
 
@@ -214,53 +214,53 @@ Now, I promised you a girl with a shoebox full of report cards. I have not forgo
 
 ## Movement four: The tortoise who passed you
 
-In a small town, there were two boys in the same class. One was named Peter. The other was named Walter.
+In a small town, there were two boys in the same class. One was named Peter. The other was named Arthur.
 
 Peter was the quick one. He finished his tests early and spent the rest of the hour drawing in the margins. Teachers loved him. He was the one they pointed to when the principal walked by.
 
-Walter was the slow one. He read with his finger under the words until he was almost twelve. He got C grades that he had to fight for. Some of the other kids called him names. Even a few of the teachers seemed to give up on him early.
+Arthur was the slow one. He read with his finger under the words until he was almost twelve. He got C grades that he had to fight for. Some of the other kids called him names. Even a few of the teachers seemed to give up on him early.
 
-But Walter had a habit. Every day after school, he went to his uncle's workshop and helped him fix chairs. Old chairs. Broken chairs. Chairs people had left on the curb. Walter sanded them, glued them, and stained them, one slow step at a time.
+But Arthur had a habit. Every day after school, he went to his uncle's workshop and helped him fix chairs. Old chairs. Broken chairs. Chairs people had left on the curb. Arthur sanded them, glued them, and stained them, one slow step at a time.
 
 He was not fast at that either. But he showed up. Every day.
 
-Twenty-five years later, Peter came back to town for a funeral. He was working a job he did not care for in a city he did not love. On the way out of town, he passed a furniture shop with Walter's name on the sign. He went inside.
+Twenty-five years later, Peter came back to town for a funeral. He was working a job he did not care for in a city he did not love. On the way out of town, he passed a furniture shop with Arthur's name on the sign. He went inside.
 
-The shop was beautiful. Tables and chairs and cabinets, all made by hand. There were people waiting to order pieces months in advance. And there was Walter, a little gray now, with sawdust on his sleeves, smiling at a customer.
+The shop was beautiful. Tables and chairs and cabinets, all made by hand. There were people waiting to order pieces months in advance. And there was Arthur, a little gray now, with sawdust on his sleeves, smiling at a customer.
 
-Peter felt something tight in his chest. He would not have called it envy. But it was close. How did this happen? Walter was the slow one.
+Peter felt something tight in his chest. He would not have called it envy. But it was close. How did this happen? Arthur was the slow one.
 
-Walter recognized him right away. He wiped his hands on his apron and came over with a wide grin. They talked about old teachers and old friends. And then Peter asked the question he had come in to ask. How did you build all this?
+Arthur recognized him right away. He wiped his hands on his apron and came over with a wide grin. They talked about old teachers and old friends. And then Peter asked the question he had come in to ask. How did you build all this?
 
-Walter laughed. He said, I was never fast enough to do it any other way. I had to do a little every day, or I would fall behind. So I did a little every day. That is all it ever was.
+Arthur laughed. He said, I was never fast enough to do it any other way. I had to do a little every day, or I would fall behind. So I did a little every day. That is all it ever was.
 
 Then he said something Peter carried home with him. He said, you know, I used to watch you in class and wish I had your brain. I figured if I could not be quick, I would have to be stubborn.
 
 Peter drove home in silence. Stubborn. He had never once thought of stubborn as a gift.
 
-Maybe you know that feeling. Maybe there is a Walter in your life. Someone who struggled in school, who you quietly felt sorry for, who is now further ahead than you in every way that seems to matter. And maybe it stings more than you would like to admit.
+Maybe you know that feeling. Maybe there is a Arthur in your life. Someone who struggled in school, who you quietly felt sorry for, who is now further ahead than you in every way that seems to matter. And maybe it stings more than you would like to admit.
 
-Let me be gentle with you here, but also honest. Walter did not get lucky. Walter learned the one lesson that you were never forced to learn. He learned that the world rewards the person who comes back tomorrow.
+Let me be gentle with you here, but also honest. Arthur did not get lucky. Arthur learned the one lesson that you were never forced to learn. He learned that the world rewards the person who comes back tomorrow.
 
-Walter never had the luxury of being quick. So he became faithful instead. He knew that he would not understand things on the first try. So he planned for the second try, and the tenth, and the hundredth. Over twenty-five years, those small returns stacked up like boards in a lumber yard. Until one day, there was a whole shop.
+Arthur never had the luxury of being quick. So he became faithful instead. He knew that he would not understand things on the first try. So he planned for the second try, and the tenth, and the hundredth. Over twenty-five years, those small returns stacked up like boards in a lumber yard. Until one day, there was a whole shop.
 
 Peter, meanwhile, had the head start. But a head start only matters if you keep running.
 
 Here is what I find so striking about those two boys. In school, speed looked like everything. The quick answer. The early finish. The first hand in the air. But outside school, speed barely matters at all. Nobody asks how fast you learned to build a table. They ask whether the table holds.
 
-And the slow learner has one quiet advantage. Because nothing ever came easy, they never expected it to. So when the hard years came, as they come for everyone, Walter was not shocked. He was ready. He had been ready since he was nine.
+And the slow learner has one quiet advantage. Because nothing ever came easy, they never expected it to. So when the hard years came, as they come for everyone, Arthur was not shocked. He was ready. He had been ready since he was nine.
 
 The world does not pay you for the head start. It pays you for the miles.
 
 So here is what I want you to do with that sting. Do not push it away. Do not pretend you are happy for everyone all the time. Feel it. Then turn it into a question instead of a wound.
 
-Ask yourself, what does my Walter do every day that I do not?
+Ask yourself, what does my Arthur do every day that I do not?
 
 Do they wake up early? Do they keep a schedule? Do they stay with one thing for years instead of jumping from idea to idea? Do they ask for help without shame? Do they take criticism without falling apart?
 
 Write the answers down. Then pick one. Just one. And start doing it this week.
 
-And if you can, do something braver. Reach out to your Walter. Tell them you admire what they built. Ask them how they kept going when it was hard. You will be amazed how much a steady person will share when someone sincerely asks.
+And if you can, do something braver. Reach out to your Arthur. Tell them you admire what they built. Ask them how they kept going when it was hard. You will be amazed how much a steady person will share when someone sincerely asks.
 
 The person who passed you is not your enemy. They are your teacher. They hold the lesson you were too quick to need when you were young. And now you are wise enough to want it.
 
@@ -270,7 +270,7 @@ You are the hare the next morning. The race you lost is over. The question is wh
 
 And that brings us to a door most smart kids are terrified to walk through. A door with a sign on it that says beginners only. What if I told you that door is where your real life starts?
 
-## Movement five: The beginner's chair
+## Movement five: The back row
 
 There was a woman named Elaine who signed up for a pottery class at the age of forty-six.
 
@@ -300,7 +300,7 @@ Why? Because for the first time in decades, she had grown. Not performed. Grown.
 
 Here is the truth inside Elaine's story. The smart kid usually stops being a beginner very early. You find the few things you are good at, and you stay there. You build a whole life inside the walls of your strengths. And it feels safe. But nothing grows inside walls that never move.
 
-Being a beginner is not a step down. It is the only way the mind keeps stretching. Every time you sit in the beginner's chair, you are rebuilding the muscle that school never asked you to build. The muscle that says, I do not know this yet, and that is fine.
+Being a beginner is not a step down. It is the only way the mind keeps stretching. Every time you sit in the back row as a beginner, you are rebuilding the muscle that school never asked you to build. The muscle that says, I do not know this yet, and that is fine.
 
 You are not too old to be a beginner. You are too old to keep pretending you do not need to be one.
 
@@ -318,11 +318,11 @@ You will be surprised what happens. People will help you. Someone will show you 
 
 You will feel curious. Simply curious. With nothing to prove.
 
+That feeling is worth more than every gold star you ever earned.
+
 And something else will happen, slowly, over the weeks. You will start to bring that beginner's mind back into the rest of your life. At work, you will ask the question you used to be too proud to ask. At home, you will try the recipe you might ruin. With your friends, you will admit you do not understand something, instead of nodding along.
 
-That is the real reason to sit in the beginner's chair. Not to become a potter or a dancer or a chess player. To become a person who is no longer afraid of not knowing. A person like that can learn almost anything.
-
-That feeling is worth more than every gold star you ever earned.
+That is the real reason to sit in the back row as a beginner. Not to become a potter or a dancer or a chess player. To become a person who is no longer afraid of not knowing. A person like that can learn almost anything.
 
 But curiosity alone does not build a life. Elaine's bowl mattered because she finished it. And finishing is the hardest skill of all for a person who has always believed their best work is still ahead. Why do smart people leave so many things undone? Let me show you.
 
@@ -400,7 +400,7 @@ She was bad at it. And she went back the next week anyway.
 
 So now, my friend, I want to ask you the question this whole night has been leading to. What will you do now?
 
-You have heard about Henry and the crown he would not set down. About Clara who never learned to be bad, and June who did. About Daniel and his box. About Walter in his workshop, Elaine at her wheel, and Rosa at her market stand. And now Grace, with her shoebox.
+You have heard about Henry and the crown he would not set down. About Clara who never learned to be bad, and June who did. About Daniel and his box. About Arthur in his workshop, Elaine at her wheel, and Rosa at her market stand. And now Grace, with her shoebox.
 
 Which one of them is you? And which one do you want to be?
 
@@ -416,7 +416,7 @@ Smart is not what you were. Smart is what you keep doing.
 
 You are not behind. You are not ruined. You are not too late. You are simply a person who was given a head start and no map. And tonight, you have the map.
 
-Set down the crown. Practice being bad. Open the box. Learn from your Walter. Sit in the beginner's chair. Finish it ugly. One step at a time, one morning at a time.
+Set down the crown. Practice being bad. Open the box. Learn from your Arthur. Sit in the back row. Finish it ugly. One step at a time, one morning at a time.
 
 The adult world does not ask whether you were gifted. It asks whether you showed up. And starting tomorrow, you can answer yes.
 
