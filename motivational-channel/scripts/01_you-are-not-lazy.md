@@ -106,15 +106,15 @@ To understand that, I want to take you to a little house with a bad roof.
 
 ## Movement two: The roof that kept leaking
 
-Picture a man named Walter who owned a small house at the edge of a small town.
+Picture a man named Harold who owned a small house at the edge of a small town.
 
 The house was old, and the roof leaked. Not a lot at first. Just a brown stain on the kitchen ceiling after a heavy rain, and a slow drip into a pot on the floor.
 
-So that first spring, Walter did what any man would do. He bought a ladder. He bought shingles and tar and nails. He spent a whole Saturday on that roof in the hot sun, and he fixed every spot that looked bad.
+So that first spring, Harold did what any man would do. He bought a ladder. He bought shingles and tar and nails. He spent a whole Saturday on that roof in the hot sun, and he fixed every spot that looked bad.
 
 The next rain came. The pot on the kitchen floor filled up again.
 
-Walter frowned. He climbed back up. He found another spot, a seam that looked a little loose, and he sealed it. He came down satisfied.
+Harold frowned. He climbed back up. He found another spot, a seam that looked a little loose, and he sealed it. He came down satisfied.
 
 The next rain came. Drip. Drip. Drip.
 
@@ -122,25 +122,25 @@ That summer, he went up four more times. He tore off shingles and laid new ones.
 
 And every single time it rained, the pot filled.
 
-By the second year, Walter went up less. By the third year, he did not go up at all. He just set the pot down when the clouds came. Then he set down two pots. Then he stopped noticing the sound.
+By the second year, Harold went up less. By the third year, he did not go up at all. He just set the pot down when the clouds came. Then he set down two pots. Then he stopped noticing the sound.
 
-His wife, Helen, would say, Walter, the roof. And Walter would say, I know. Next weekend. And next weekend would come, and he would sit in his chair, and the ladder would stay on its hook in the shed.
+His wife, Martha, would say, Harold, the roof. And Harold would say, I know. Next weekend. And next weekend would come, and he would sit in his chair, and the ladder would stay on its hook in the shed.
 
-If you had walked into that house in the third year, you might have looked at Walter and thought, what a lazy man. His roof is falling in and he just sits there.
+If you had walked into that house in the third year, you might have looked at Harold and thought, what a lazy man. His roof is falling in and he just sits there.
 
-But you would be wrong. Walter was the hardest-working man on that street. He had climbed that ladder more times than any of his neighbors. He had not stopped because he did not care. He had stopped because he had learned, deep in his bones, that climbing did not work.
+But you would be wrong. Harold was the hardest-working man on that street. He had climbed that ladder more times than any of his neighbors. He had not stopped because he did not care. He had stopped because he had learned, deep in his bones, that climbing did not work.
 
-Here is the truth inside Walter's story, and I want you to hear it slowly.
+Here is the truth inside Harold's story, and I want you to hear it slowly.
 
 Your mind learns from what happens, not from what people tell you. You can hear a thousand times that hard work pays off. But if your own life keeps showing you that hard work leads to the same full pot on the floor, your life wins the argument. Every time.
 
 That is what happened to you. Maybe it was your weight. Maybe it was money. Maybe it was love, or your career, or a dream you had since you were young. You climbed the ladder. You did the work. And the pot kept filling.
 
-So your mind did what Walter's mind did. It drew a conclusion. It said, effort here does not change the outcome. Stop spending it.
+So your mind did what Harold's mind did. It drew a conclusion. It said, effort here does not change the outcome. Stop spending it.
 
 And it was not wrong, given what it had seen. That is the part you need to understand. Your mind was not lying to you. It was reading the evidence it had. The trouble is, the evidence was incomplete.
 
-Because here is something Walter did not know yet. The leak was never coming from the spots he fixed. The water was getting in somewhere else entirely, somewhere he had never thought to look. All that effort was real. It was just aimed at the wrong place.
+Because here is something Harold did not know yet. The leak was never coming from the spots he fixed. The water was getting in somewhere else entirely, somewhere he had never thought to look. All that effort was real. It was just aimed at the wrong place.
 
 So hold onto this line.
 
@@ -160,35 +160,35 @@ Same patch of roof. Same full pot.
 
 You do not need to fix it tomorrow. You only need to see it. Seeing it changes the lesson your mind is reading. It turns, effort does not work, into, that kind of effort did not work. And that is a door that opens instead of closes.
 
-Now, I promised you we would follow Walter, and we will. I will come back to Walter and his roof before we are done, because what he found is worth the wait.
+Now, I promised you we would follow Harold, and we will. I will come back to Harold and his roof before we are done, because what he found is worth the wait.
 
-But first, I want to tell you about a girl who stopped raising her hand. Because she shows us something Walter could not. She shows us what to do when you have lost so many times that even the small fights feel too big.
+But first, I want to tell you about a girl who stopped raising her hand. Because she shows us something Harold could not. She shows us what to do when you have lost so many times that even the small fights feel too big.
 
 ## Movement three: The hand that stopped rising
 
-There was a girl named Nora who loved to answer questions.
+There was a girl named Hazel who loved to answer questions.
 
 In her first years of school, her hand was always up. She did not always know the answer. That did not matter to her. She liked the feeling of reaching. She liked the chance.
 
-Then one day she gave a wrong answer, and a few of the kids laughed. Not cruelly, not really. Just the way kids laugh. The teacher said, no, Nora, and moved on.
+Then one day she gave a wrong answer, and a few of the kids laughed. Not cruelly, not really. Just the way kids laugh. The teacher said, no, Hazel, and moved on.
 
 The next week, she raised her hand again and got it wrong again. More laughter. Her face went hot.
 
 The week after that, she knew the answer. She was sure of it. She raised her hand, and the teacher called on someone else. And then someone else again.
 
-It went on like that, a little loss here, a small sting there, until one day, Nora noticed her hand was not going up anymore. She had not decided to stop. It just stopped. It stayed in her lap, heavy, as if it had been filled with sand.
+It went on like that, a little loss here, a small sting there, until one day, Hazel noticed her hand was not going up anymore. She had not decided to stop. It just stopped. It stayed in her lap, heavy, as if it had been filled with sand.
 
-And here is the thing. Nora grew up. She became a grown woman with a good mind and a lot to say. And she sat in meetings at work for years with her hand in her lap. She would have an idea, a good one, and she would feel her chest go tight. Then someone else would say something close to it, and everyone would nod, and Nora would go home and stare at the ceiling.
+And here is the thing. Hazel grew up. She became a grown woman with a good mind and a lot to say. And she sat in meetings at work for years with her hand in her lap. She would have an idea, a good one, and she would feel her chest go tight. Then someone else would say something close to it, and everyone would nod, and Hazel would go home and stare at the ceiling.
 
-Her friends called her shy. Her boss called her quiet. Nora called herself something worse. She called herself a coward, and sometimes, on bad days, she called herself lazy, because she knew she could do more and did not.
+Her friends called her shy. Her boss called her quiet. Hazel called herself something worse. She called herself a coward, and sometimes, on bad days, she called herself lazy, because she knew she could do more and did not.
 
-One evening, Nora was helping her young nephew learn to throw a ball. He kept missing the catch, and after six or seven misses, he dropped his arms and said he did not want to play anymore.
+One evening, Hazel was helping her young nephew learn to throw a ball. He kept missing the catch, and after six or seven misses, he dropped his arms and said he did not want to play anymore.
 
-Nora did not argue with him. She did something wiser. She walked three steps closer.
+Hazel did not argue with him. She did something wiser. She walked three steps closer.
 
 She tossed the ball from just a few feet away, soft and slow. He caught it. His face lit up. She tossed it again. He caught it again. After ten catches, she took one step back. Then another. By the end of the evening, he was catching from farther away than where he had first given up.
 
-And Nora stood there in the yard and realized she had just watched the answer to her own life.
+And Hazel stood there in the yard and realized she had just watched the answer to her own life.
 
 Here is the truth inside her story.
 
@@ -204,7 +204,7 @@ So remember this.
 
 When you have lost too often, do not look for a bigger fight. Look for a smaller field.
 
-Here is what Nora did with it.
+Here is what Hazel did with it.
 
 The next morning, she did not promise herself she would speak up in every meeting. She did not promise to share her biggest idea. She made one small rule. In the Tuesday meeting, she would ask one question. Not give an answer. Just ask a question. Something simple. Something she was curious about.
 
@@ -236,7 +236,7 @@ After enough of that, you would stop believing them. You would not hate them, ma
 
 That is what Tom's own mind had done to him. It had stopped counting on him.
 
-One night, Tom's grandmother, a small, sharp woman named Rose, was visiting. She watched him promise himself, once again, that he would start walking in the mornings. And she said, Tom, how many times have you said that?
+One night, Tom's grandmother, a small, sharp woman named Ivy, was visiting. She watched him promise himself, once again, that he would start walking in the mornings. And she said, Tom, how many times have you said that?
 
 He laughed and said he had lost count.
 
@@ -340,23 +340,23 @@ And here is what Amos knew that the young men did not. If you keep the reps up l
 
 And when they do, when that first real result finally lands in your hands, something changes in you that is very hard to describe.
 
-Which brings me back, as I promised, to Walter and his roof. Because Walter finally caught his fish. And what happened next is the part I have been saving.
+Which brings me back, as I promised, to Harold and his roof. Because Harold finally caught his fish. And what happened next is the part I have been saving.
 
 ## Movement six: The first real win
 
-You remember Walter. The man with the leaking roof and the ladder on its hook.
+You remember Harold. The man with the leaking roof and the ladder on its hook.
 
-By the fourth year, the stain on the kitchen ceiling had spread. Helen had stopped asking. Walter had stopped hearing the drip. The house had simply learned to live around the problem, the way people do.
+By the fourth year, the stain on the kitchen ceiling had spread. Martha had stopped asking. Harold had stopped hearing the drip. The house had simply learned to live around the problem, the way people do.
 
-Then one autumn, Walter's grandson Leo came to stay for a week. Leo was twelve, and he was bored, and he liked to climb things. One afternoon, he climbed up into the attic, which nobody had been in for years.
+Then one autumn, Harold's grandson Leo came to stay for a week. Leo was twelve, and he was bored, and he liked to climb things. One afternoon, he climbed up into the attic, which nobody had been in for years.
 
 He came back down covered in dust and said, Grandpa, there is a hole up there by the chimney. You can see the sky.
 
-Walter frowned. He had been on that roof dozens of times. He had never looked at the chimney. It was brick, and it looked solid from outside. He had always assumed the water came through the shingles, because that is where roofs leak.
+Harold frowned. He had been on that roof dozens of times. He had never looked at the chimney. It was brick, and it looked solid from outside. He had always assumed the water came through the shingles, because that is where roofs leak.
 
 He followed Leo up into the attic. And there it was. A gap where the metal flashing around the chimney had pulled away. A small gap. You could cover it with your hand. Every drop of water that had ever hit that kitchen ceiling had come through that one place.
 
-Walter sat down on a beam and just stared at it for a long time.
+Harold sat down on a beam and just stared at it for a long time.
 
 Think about what went through his mind. Four years of climbing. Four years of shingles and tar and sore knees. Four years of sitting in his chair while his wife looked at him and said nothing. And the whole time, the answer had been right above his head, in a dark room he had never thought to enter. He did not feel foolish, exactly. He felt something closer to relief. The problem had never been him. It had been where he was looking.
 
@@ -364,25 +364,25 @@ The next morning, he took the ladder off its hook. He climbed up, and he worked 
 
 And then it rained.
 
-Walter and Helen sat in the kitchen that night and listened. Rain on the roof. Rain on the windows. And in the pot on the floor, nothing. Not one drop.
+Harold and Martha sat in the kitchen that night and listened. Rain on the roof. Rain on the windows. And in the pot on the floor, nothing. Not one drop.
 
-Helen said Walter laughed so hard he had to sit down. And then he was quiet for a while. And then he got up and went out to the shed and looked at all the shingles and tar he had bought over the years, and he shook his head.
+Martha said Harold laughed so hard he had to sit down. And then he was quiet for a while. And then he got up and went out to the shed and looked at all the shingles and tar he had bought over the years, and he shook his head.
 
 But here is the part I have been waiting to tell you.
 
-The next week, Walter fixed the back porch step that had been loose for two years. Then he fixed the gate. Then he painted the bedroom Helen had wanted painted since before Leo was born. Then he started helping a neighbor with a fence.
+The next week, Harold fixed the back porch step that had been loose for two years. Then he fixed the gate. Then he painted the bedroom Martha had wanted painted since before Leo was born. Then he started helping a neighbor with a fence.
 
-Nothing about Walter's body had changed. Nothing about his skill had changed. He had been able to fix a step the whole time. What changed was the record in his head. For four years, it had said, when you try to fix things, nothing happens. Now it had one new line, a big one. When you find the real problem, it gets fixed.
+Nothing about Harold's body had changed. Nothing about his skill had changed. He had been able to fix a step the whole time. What changed was the record in his head. For four years, it had said, when you try to fix things, nothing happens. Now it had one new line, a big one. When you find the real problem, it gets fixed.
 
 And that one line spread through his whole life like warm water.
 
-Here is the truth inside Walter's story.
+Here is the truth inside Harold's story.
 
 The first real win is not just a win. It is evidence. It is your mind finally getting a fact that argues back against all those years of losing. And a mind that has one true counterexample will begin to question everything else it believed.
 
 That is why the small fields matter. That is why the jar matters. That is why counting the casts matters. They are all working toward this moment. The moment the pot stays empty.
 
-And this is what I most want you to understand. The first real win does not have to be big. Walter's was the size of his hand. But it was real, and it was his, and it came from his own effort aimed at the right place.
+And this is what I most want you to understand. The first real win does not have to be big. Harold's was the size of his hand. But it was real, and it was his, and it came from his own effort aimed at the right place.
 
 So remember this.
 
@@ -402,7 +402,7 @@ Once you start winning, even a little, people will notice. And not everyone will
 
 ## Movement seven: Guard the small fire
 
-There was a woman named Clara who, at forty-six, decided to learn to swim.
+There was a woman named Maeve who, at forty-six, decided to learn to swim.
 
 She had never learned as a girl. There had been no pool nearby, no one to teach her, and by the time she was grown, she was too ashamed to start. She had spent her whole life sitting on the edge at beaches and parties. She watched her children and then her grandchildren splash. She told everyone she just did not care for the water.
 
@@ -418,11 +418,11 @@ And then she made the mistake of telling her family at Sunday dinner.
 
 Her brother laughed first. At your age? he said. Then her sister-in-law joined in, saying something about water wings. Her own son grinned and asked whether she would be ready for the big race this summer. Everyone laughed. It was not meant to be cruel. It was the kind of laughter families use with each other all the time.
 
-But Clara went home that night and sat in her car in the driveway for a long time.
+But Maeve went home that night and sat in her car in the driveway for a long time.
 
 The next Monday, she almost did not go. She had her keys in her hand, and she heard her brother's voice, at your age, and she set the keys back down.
 
-Here is the truth inside Clara's story.
+Here is the truth inside Maeve's story.
 
 New effort is a small fire. It is just a spark and a little bit of kindling. It does not take a storm to put it out. A breath will do it. A laugh. A raised eyebrow. A friend who says, are you still doing that thing?
 
@@ -436,13 +436,13 @@ Here is the line.
 
 Guard the small fire. The people who never built one will always find it funny.
 
-What did Clara do?
+What did Maeve do?
 
 She sat with her keys for a while. And then she picked them back up. She went to the pool that Monday, and every Monday after. But she made one change. She stopped telling her family about it. When they asked, she said, oh, it is going fine, and changed the subject.
 
-She told one person instead. Her neighbor across the street, an old widow named Ada, who had once told Clara she wished she had learned piano. Ada did not laugh. Ada asked questions. Ada said, tell me what you learned this week. And every Tuesday morning over coffee, Clara told her.
+She told one person instead. Her neighbor across the street, an old widow named Ada, who had once told Maeve she wished she had learned piano. Ada did not laugh. Ada asked questions. Ada said, tell me what you learned this week. And every Tuesday morning over coffee, Maeve told her.
 
-By summer, Clara could swim the length of the pool. By the next summer, she swam out past the rope at the lake while her whole family stood on the shore in silence. Her brother did not say a word. Her son cried a little, though he would never admit it.
+By summer, Maeve could swim the length of the pool. By the next summer, she swam out past the rope at the lake while her whole family stood on the shore in silence. Her brother did not say a word. Her son cried a little, though he would never admit it.
 
 Here is what you do with this tomorrow.
 
@@ -452,7 +452,7 @@ Second, pick one person who will protect your effort instead of mocking it. Just
 
 Third, when someone does mock you, and someone will, have a sentence ready. Not an argument. A sentence. Something like, I am enjoying it, and leave it there. You do not need to win the conversation. You only need to keep the fire lit.
 
-And fourth, watch your own voice. Because the loudest mocker in your life might be the one inside your head. The voice that says, at your age, who do you think you are, you always quit. That voice was trained by every loss you ever had. Treat it like Clara's brother. Hear it, nod, and go to the pool anyway.
+And fourth, watch your own voice. Because the loudest mocker in your life might be the one inside your head. The voice that says, at your age, who do you think you are, you always quit. That voice was trained by every loss you ever had. Treat it like Maeve's brother. Hear it, nod, and go to the pool anyway.
 
 So we have come a long way tonight. From a boy who could not see the board, to a woman swimming past the rope. And now there is only one person left whose story we have not told.
 
@@ -468,7 +468,7 @@ I am asking what you will do.
 
 Because you have spent years thinking something was wrong with you. Years of that ugly word. Years of looking at the ladder on its hook and hating yourself for not climbing.
 
-And now you know. You were not lazy. You were Walter, aiming at the wrong patch of roof. You were Nora, with a hand full of sand after too many small stings. You were Tom, who had stopped believing his own promises because he had broken so many. You were counting fish instead of casts. You were letting other people blow on your small fire.
+And now you know. You were not lazy. You were Harold, aiming at the wrong patch of roof. You were Hazel, with a hand full of sand after too many small stings. You were Tom, who had stopped believing his own promises because he had broken so many. You were counting fish instead of casts. You were letting other people blow on your small fire.
 
 None of that is a flaw in your character. All of it is something you can work with.
 

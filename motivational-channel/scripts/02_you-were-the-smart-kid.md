@@ -104,27 +104,27 @@ But setting down the crown is only the first room. The moment you try to build s
 
 ## Movement two: Never learning to be bad
 
-Picture a girl named Clara. Clara was the kind of student who heard a lesson once and simply knew it. Math, history, spelling, it did not matter. She would glance at the page, and the answers would arrive like old friends.
+Picture a girl named Esther. Esther was the kind of student who heard a lesson once and simply knew it. Math, history, spelling, it did not matter. She would glance at the page, and the answers would arrive like old friends.
 
-Her classmates studied for hours. Clara studied on the bus ride to school.
+Her classmates studied for hours. Esther studied on the bus ride to school.
 
 Then, at fifteen, her mother signed her up for violin lessons.
 
-The first lesson was a disaster. The bow screeched. Her fingers would not land where they were supposed to. The teacher was patient, but Clara was not. She had never in her life been bad at something for more than ten minutes. And now she was bad at something for an entire hour.
+The first lesson was a disaster. The bow screeched. Her fingers would not land where they were supposed to. The teacher was patient, but Esther was not. She had never in her life been bad at something for more than ten minutes. And now she was bad at something for an entire hour.
 
 She went home and cried. Not because the violin was hard. Lots of things are hard. She cried because she did not know what to do with the feeling of being bad. She had no map for it. No practice. No memory of ever getting through it.
 
 There was another girl in that same violin class. Her name was June. June was not a quick learner. She had always had to work twice as hard in school just to keep up. So when the violin screeched in June's hands, she did not panic. She just shrugged. She had been bad at things a hundred times before. She knew the feeling. She knew it passed if you kept going.
 
-Clara quit after three weeks. June kept playing for twenty years.
+Esther quit after three weeks. June kept playing for twenty years.
 
-Now, here is what I want you to notice. June was not more talented. If anything, Clara had the quicker ear. But June had something Clara did not. June had practiced being bad. She had spent years in the uncomfortable middle, the place where you are not good yet but you are getting better. She knew how to live there.
+Now, here is what I want you to notice. June was not more talented. If anything, Esther had the quicker ear. But June had something Esther did not. June had practiced being bad. She had spent years in the uncomfortable middle, the place where you are not good yet but you are getting better. She knew how to live there.
 
-Clara had never lived there for one single day.
+Esther had never lived there for one single day.
 
-And the violin was only the beginning. Years later, Clara took a job at a company where nobody knew she had been the brightest girl in her school. Her first big project went badly. Her manager handed back her report covered in notes. It was not cruel. It was just honest.
+And the violin was only the beginning. Years later, Esther took a job at a company where nobody knew she had been the brightest girl in her school. Her first big project went badly. Her manager handed back her report covered in notes. It was not cruel. It was just honest.
 
-Clara read those notes at her desk and felt the same hot wave she had felt at fifteen with the bow in her hand. And she did the same thing. She started looking for a new job that very week. She told herself the company was not a good fit. She told herself she was meant for something more.
+Esther read those notes at her desk and felt the same hot wave she had felt at fifteen with the bow in her hand. And she did the same thing. She started looking for a new job that very week. She told herself the company was not a good fit. She told herself she was meant for something more.
 
 She left four jobs that way in eight years. Each time, the story was the same. Each time, she called it a bad fit. It never once crossed her mind that the thing she kept running from was not the job. It was the middle.
 
@@ -152,7 +152,7 @@ That growing comfort with being bad is the real prize. Because once the feeling 
 
 The fog does not get thinner. You just stop being afraid of it.
 
-But there is something deeper underneath this fear. Something that kept Henry and Clara frozen, and maybe you too. It is not just that being bad feels uncomfortable. It is that being bad threatens a story. A story you have been telling yourself your whole life. What happens when you let that story be tested? That is our next room.
+But there is something deeper underneath this fear. Something that kept Henry and Esther frozen, and maybe you too. It is not just that being bad feels uncomfortable. It is that being bad threatens a story. A story you have been telling yourself your whole life. What happens when you let that story be tested? That is our next room.
 
 ## Movement three: The story you are protecting
 
@@ -380,7 +380,7 @@ And now, as I promised, it is time to open that shoebox.
 
 ## The turn
 
-There was a girl named Grace who kept her report cards in a shoebox under her bed.
+There was a girl named Opal who kept her report cards in a shoebox under her bed.
 
 She kept them for thirty years. Through college, through two moves, through a marriage and a divorce. Every few years, on some lonely night, she would take the box out and read them. So bright. A joy to teach. Destined for great things.
 
@@ -390,7 +390,7 @@ One night, at forty-eight, she took the box out again. But this time, something 
 
 Because she could see it so clearly. That little girl had been praised for being quick. Never for being brave. Never for trying something hard. Never for finishing something difficult. Never for getting back up. And so the little girl grew up believing that being quick was the whole point.
 
-Grace put the report cards down and picked up a pen. On a blank page, she wrote a new report card. For herself. Not for the girl she was. For the woman she wanted to become.
+Opal put the report cards down and picked up a pen. On a blank page, she wrote a new report card. For herself. Not for the girl she was. For the woman she wanted to become.
 
 Shows up when it is hard. Willing to be a beginner. Finishes what she starts. Asks for help. Keeps learning.
 
@@ -400,7 +400,7 @@ She was bad at it. And she went back the next week anyway.
 
 So now, my friend, I want to ask you the question this whole night has been leading to. What will you do now?
 
-You have heard about Henry and the crown he would not set down. About Clara who never learned to be bad, and June who did. About Daniel and his box. About Arthur in his workshop, Elaine at her wheel, and Rosa at her market stand. And now Grace, with her shoebox.
+You have heard about Henry and the crown he would not set down. About Esther who never learned to be bad, and June who did. About Daniel and his box. About Arthur in his workshop, Elaine at her wheel, and Rosa at her market stand. And now Opal, with her shoebox.
 
 Which one of them is you? And which one do you want to be?
 
