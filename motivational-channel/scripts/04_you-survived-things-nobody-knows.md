@@ -336,7 +336,9 @@ So she knocked. Gently.
 
 Nora rolled down the window, embarrassed, wiping her eyes. Dana did not ask what was wrong. She just said, "I used to sit here too. Every morning, for a year. You are not the only one." Then she said, "I have coffee in my classroom, if you want to come sit for a few minutes before the bell."
 
-Nora came. She did not tell Dana everything that day. But she told her some of it. And over the following weeks, she told her more.
+Nora sat very still for a moment. Then she laughed, a small wet laugh, the kind that comes out when someone has just found out they are not as alone as they thought.
+
+Nora came. They sat at one of the little tables meant for children, their knees up too high, holding paper cups of coffee. She did not tell Dana everything that day. But she told her some of it. And over the following weeks, she told her more.
 
 That was the moment something changed for Dana, too. Because in telling Nora, "I sat here too," she finally said out loud what she had carried in silence. She finally let her own hard year be real to another person. Helping Nora was the door she walked through herself.
 
@@ -353,6 +355,8 @@ That knowledge is a lantern. Not because the dark was good. But because you came
 The road you crawled down in the dark is the road you can now walk someone else along, with a light in your hand.
 
 You do not have to become a hero to do this. You do not have to start a charity or give speeches. It can be very small. It can be noticing the coworker who has gone quiet and asking, really asking, how they are. It can be sitting with a neighbor who just lost someone, because you know nobody wants a speech in those weeks. They want company. It can be telling a younger person, "I went through something like that. You will not always feel the way you feel tonight."
+
+One word of care, though. Helping someone else is not the same as carrying them. You are not there to fix their life or rescue them from everything. You are there to say, "You are not the only one," and to point toward the next safe step. Sometimes the kindest thing you can do is help them find someone trained to help, and then stay close while they do. A lantern does not walk the road for anyone. It just lights the next few feet.
 
 So tomorrow, keep your eyes open. Somewhere near you is a person under that tree, with their hands on the wheel. You may not see them at first. People like us are very good at hiding. But you know what to look for now.
 
@@ -376,6 +380,8 @@ Within a few weeks, there were new green leaves. Small ones, curled at first, th
 
 So he bought a second plant, a small one, for his kitchen window at home. Then he bought a third. One Sunday afternoon, he walked into a garden shop just to look around, and he talked with the woman at the counter for half an hour about soil and sunlight. He drove home with the windows down.
 
+His daughter called that week and noticed something in his voice. "You sound different, Dad," she said. He told her about the plants. She was quiet on the line for a moment. Then she said, "I am so glad." He could hear that she was crying a little. He understood that his children had been worried about him for a long time, and had not known how to say it.
+
 Nothing dramatic happened. No great change. But something had shifted.
 
 Walter had stopped only surviving. He had started, a little at a time, to live.
@@ -391,6 +397,8 @@ If so, I want to give you permission to want more than getting through.
 You did not survive all of that just to keep surviving.
 
 You survived so that, one day, you could water a plant and look forward to tomorrow. So you could laugh without checking first if it is allowed. So you could make a plan that reaches further than next week. So you could feel the sun on your arm through an open car window and think, "This is good."
+
+Some people feel guilty when the first joy comes back. Walter did. The first time he laughed out loud after his wife died, he stopped himself, as if he had done something wrong. As if being happy meant he had stopped loving her. It did not. He came to see that the life he was starting to enjoy was one she would have wanted for him. Joy did not erase her. It honored her.
 
 That is not betraying your pain. It is not pretending the hard things did not happen. It is the opposite. It is what all that survival was for.
 
