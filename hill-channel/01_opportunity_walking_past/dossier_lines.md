@@ -1,0 +1,6 @@
+- 1908 | Lumber company in Mobile fails | He started over with what was already in his hands: pen, paper, readers (writing since his teens) | DOCUMENTED
+- 1915 | Candy shop fails | He started over again; the candy did not last, the writing did | DOCUMENTED
+- 1928 | The Law of Success published, Hill about forty-five | Lesson Initiative and Leadership, paraphrased: doing what needs doing before being told; leadership grows from that habit. Cited aloud as free to read online | DOCUMENTED (publication); lesson idea paraphrased in general terms only
+- 1930 | Catskills estate lost to foreclosure | He started over again; the estate went, the writing stayed; Think and Grow Rich followed in 1937 | DOCUMENTED
+- 1937 | Think and Grow Rich, chapter one, Darby story | Darby and his uncle went west for gold, found ore, the vein vanished, they quit and sold the machinery to a junk man, who called in a mining engineer who found the vein three feet from where they stopped; Hill wrote that Darby carried the lesson into selling life insurance. Angled on seeing (fresh eyes), not on never quitting | HILL'S OWN ACCOUNT (Think and Grow Rich, chapter one)
+- Support line (not Hill) | Russell Conwell, Acres of Diamonds | One paraphrased line: a tale of a man who sold his land to hunt treasure that later turned up on that land | Public-domain lecture, paraphrase only
