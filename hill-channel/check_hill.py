@@ -4,6 +4,7 @@
 Usage: check_hill.py SCRIPT.txt [--against FILE ...]
 --against: other scripts for the 6-gram anti-copy scan (rule 21 / Y1).
 """
+import os
 import re
 import sys
 
@@ -137,5 +138,5 @@ if __name__ == "__main__":
         i = args.index("--against")
         against = args[i + 1:]
         args = args[:i]
-    ok = all([check(p, [a for a in against if a != p]) for p in args])
+    ok = all([check(p, [a for a in against if not os.path.samefile(a, p)]) for p in args])
     sys.exit(0 if ok else 1)
