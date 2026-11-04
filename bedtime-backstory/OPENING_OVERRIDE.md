@@ -9,3 +9,9 @@
 - Then the **settle cue** (head heavy, shoulders loose…), ending with a soft "So let us begin." or "Now, let us begin." before the first scene starts.
 - All of this stays within about the first 450–550 words.
 - Everything else in the brief is unchanged, including the soft one-sentence like/subscribe in the close (A6) and "Sleep well, friend. Good night."
+
+## Second owner addition: ask viewers for video suggestions, in EVERY script
+
+- **In the opening support block,** the comment ask should also invite viewers to suggest what kind of video to make next. For example: "And if you leave a comment, tell me what kind of story you would like to hear on a future night. Your suggestions help me more than you know."
+- **In the close (A6),** after the one soft like/subscribe sentence, add one gentle sentence repeating it. For example: "If there is a time or place you would love to spend a night in, leave it in the comments, because your ideas truly help."
+- Keep both requests soft and warm, with no "!" and no contractions.
