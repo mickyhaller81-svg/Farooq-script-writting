@@ -59,7 +59,8 @@ def check(path, against):
     if not 8 <= avg <= 11:
         errors.append(f"average sentence {avg:.1f} words (8-11)")
     for s, l in zip(sents, lens):
-        if l > 22:
+        # The CTA wording is fixed by the brief (23 words), so it is exempt.
+        if l > 22 and s.strip() != CTA:
             errors.append(f"sentence of {l} words (max 22): {s[:70]!r}")
 
     you = sum(1 for w in allw if w.lower() in ("you", "your", "you're", "yours", "yourself", "you've", "you'll", "you'd"))
